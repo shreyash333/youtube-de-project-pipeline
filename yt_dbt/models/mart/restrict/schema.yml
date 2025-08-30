@@ -1,0 +1,109 @@
+version: 2
+
+models:
+  - name: mart_tt_blocked_category
+    description: |
+      Blocked Categories: Identifies which YouTube video categories have the highest number 
+      of blocked videos.  
+      - Aggregates data from `int_block_video`.  
+      - Counts distinct `video_id` per `category_id`.  
+      - Returns the top 10 categories with the most blocked videos.  
+
+    columns:
+      - name: category_id
+        description: The YouTube video category identifier. Used to group blocked videos.
+        tests:
+          - not_null
+
+      - name: blocked_video_count
+        description: The number of distinct videos blocked within this category.
+        tests:
+          - not_null
+
+  - name: mart_tt_blocked_countries
+    description: |
+      Most Affected Countries: Identifies which source countries have their trending videos 
+      most frequently blocked.  
+      - Aggregates from `int_block_country`.  
+      - Calculates two metrics per country:  
+        1. `blocked_video_count` → Number of distinct videos from that country that are blocked elsewhere.  
+        2. `blocked_country_count` → Number of distinct blocking countries involved.  
+      - Returns the top 10 countries by blocked videos and blocking reach.  
+
+    columns:
+      - name: country
+        description: The origin country of the trending video (source country).
+        tests:
+          - not_null
+
+      - name: blocked_video_count
+        description: The number of distinct trending videos from this country that are blocked.
+        tests:
+          - not_null
+
+      - name: blocked_country_count
+        description: The number of distinct countries where videos from this country are blocked.
+        tests:
+          - not_null
+
+  - name: mart_tt_blocked_videos
+    description: |
+      Most-Blocked Videos: Identifies the trending videos blocked by the largest number of countries.  
+      - Aggregates from `int_block_country` and `int_block_video`.  
+      - Calculates `blocked_country_count` (how many distinct countries blocked each video).  
+      - Deduplicates using ROW_NUMBER to keep the best record per video.  
+      - Returns the Top 10 most-blocked videos ranked by blocking coverage.  
+
+    columns:
+      - name: title
+        description: Title of the video.
+        tests:
+          - not_null
+
+      - name: channel_title
+        description: Channel name associated with the video.
+        tests:
+          - not_null
+
+      - name: published_at
+        description: Timestamp when the video was originally published on YouTube.
+        tests:
+          - not_null
+
+      - name: view_count
+        description: Number of views the video has received at the time of ingestion.
+        tests:
+          - not_null
+
+      - name: like_count
+        description: Number of likes the video has received at the time of ingestion.
+        tests:
+          - not_null
+
+      - name: comment_count
+        description: Number of comments the video has received at the time of ingestion.
+        tests:
+          - not_null
+
+      - name: blocked_country_count
+        description: Number of distinct countries that have blocked this video.
+        tests:
+          - not_null
+
+  - name: mart_tt_blocking_countries
+    description: |
+      Top Blocking Countries: Identifies the countries that have blocked the highest number of trending videos.  
+      - Aggregates from `int_block_country`.  
+      - Counts distinct videos blocked per blocking country (`blocked_video_count`).  
+      - Returns the Top 10 countries ranked by number of blocked videos.  
+
+    columns:
+      - name: block_by_country
+        description: Country that has blocked trending videos.
+        tests:
+          - not_null
+
+      - name: blocked_video_count
+        description: Number of unique trending videos blocked by this country.
+        tests:
+          - not_null

@@ -1,0 +1,4354 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "z2K3spuWVrDXSs9Xkm8tIW0uHdA",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Gukyvqu-fB-bLk-pMa06j_xgtPQ",
+      "id": "10MH9nDMbK0",
+      "snippet": {
+        "publishedAt": "2025-08-10T17:27:27Z",
+        "channelId": "UCNazyTIfoIFYmiJpNLPOv5g",
+        "title": "El Alfa \"El Jefe\" Ft. Rochy RD, El Mayor Cl\u00e1sico - TUMBAO FEO",
+        "description": "El Alfa \"El Jefe\" Ft. Rochy RD, El Mayor Cl\u00e1sico - TUMBAO FEO \n\n\ud83d\udd14Suscribete! \ud83d\udc4dLike \ud83d\udcacComenta\n\nDESCARGALO AQUI: https://drive.google.com/file/d/1iHiCyOYbbVSmLV7LYlO1JOaksWjMWf5x/view?usp=sharing\n\n\ud83c\udfb9Prod. By IzyManuel\n\nMis Redes Sociales: \nhttps://www.instagram.com/izymanuelbeats\nhttps://www.tiktok.com/@izymanuel.produce\n\n\ud83d\udce2Esta es una mezcla creada por mi con el fin de entretenimiento, no es un tema oficial. Si te gusto dime que te pareci\u00f3 en los comentarios! \ud83d\udc47\u270c\n\n#ElAlfa #RochyRD #TumbaoFeo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/10MH9nDMbK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/10MH9nDMbK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/10MH9nDMbK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/10MH9nDMbK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/10MH9nDMbK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IzyManuel Beatz",
+        "tags": [
+          "el alfa",
+          "rochy rd",
+          "el mayor clasico",
+          "el alfa rochy rd el mayor clasico",
+          "el alfa ft el mayor clasico rochy rd",
+          "rochy rd ft el alfa",
+          "el alfa ft el mayor clasico",
+          "el alfa le tira a el mayor",
+          "dembow",
+          "el alfa ft rochy rd 2025",
+          "tumbao feo el alfa",
+          "dembow 2025",
+          "el alfa y rochy rd",
+          "el alfa 2025",
+          "el alfa el jefe",
+          "rochi",
+          "rochi rd",
+          "dembow dominicano",
+          "el jefe"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "El Alfa \"El Jefe\" Ft. Rochy RD, El Mayor Cl\u00e1sico - TUMBAO FEO",
+          "description": "El Alfa \"El Jefe\" Ft. Rochy RD, El Mayor Cl\u00e1sico - TUMBAO FEO \n\n\ud83d\udd14Suscribete! \ud83d\udc4dLike \ud83d\udcacComenta\n\nDESCARGALO AQUI: https://drive.google.com/file/d/1iHiCyOYbbVSmLV7LYlO1JOaksWjMWf5x/view?usp=sharing\n\n\ud83c\udfb9Prod. By IzyManuel\n\nMis Redes Sociales: \nhttps://www.instagram.com/izymanuelbeats\nhttps://www.tiktok.com/@izymanuel.produce\n\n\ud83d\udce2Esta es una mezcla creada por mi con el fin de entretenimiento, no es un tema oficial. Si te gusto dime que te pareci\u00f3 en los comentarios! \ud83d\udc47\u270c\n\n#ElAlfa #RochyRD #TumbaoFeo"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "77668",
+        "likeCount": "5101",
+        "favoriteCount": "0",
+        "commentCount": "338"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_AtsKBfXZRnK21wHp2gCgtnYJBc",
+      "id": "cXD07Nblbjw",
+      "snippet": {
+        "publishedAt": "2025-08-10T20:00:24Z",
+        "channelId": "UC_1p5wmy0Pj5QEJkD1REb2Q",
+        "title": "2 MOND Part 3 Official trailer",
+        "description": "RANDEVOU DIMANCH 17 Aout 8:00 PM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXD07Nblbjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXD07Nblbjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXD07Nblbjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cXD07Nblbjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cXD07Nblbjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Skinny PM Films",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2 MOND Part 3 Official trailer",
+          "description": "RANDEVOU DIMANCH 17 Aout 8:00 PM"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "46280",
+        "likeCount": "5983",
+        "favoriteCount": "0",
+        "commentCount": "374"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iqaxd-LdJVzR6r5Z8bS1Cih_rG0",
+      "id": "BJYDhKLqyB0",
+      "snippet": {
+        "publishedAt": "2025-08-10T19:23:15Z",
+        "channelId": "UCEs5MQjXJq27-X2vgdwtYDw",
+        "title": "Teniendo un AMOR PROHIBIDO ELEMENTAL en Minecraft!",
+        "description": "Hoy, Dagar es un Elemental de Agua, y se enamora de la nueva alumna de la Escuela Elemental, una Elemental de Fuego. Tendr\u00e1 que ayudar a su enamorada a descubrir sus poderes y convencer a los dem\u00e1s de que es buena, ya que su amor est\u00e1 prohibido. \u00bfQu\u00e9 pasar\u00e1? \u00a1Desc\u00fabrelo!\n\n\n#Minecraft #MinecraftMod #Dagar #NachoyDagar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJYDhKLqyB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJYDhKLqyB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJYDhKLqyB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BJYDhKLqyB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BJYDhKLqyB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dagar",
+        "tags": [
+          "Minecraft",
+          "minecraft mod",
+          "dagar y nacho",
+          "nacho y dagar",
+          "amigos minecraft",
+          "dagar minecraft",
+          "minecraft dagar"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Teniendo un AMOR PROHIBIDO ELEMENTAL en Minecraft!",
+          "description": "Hoy, Dagar es un Elemental de Agua, y se enamora de la nueva alumna de la Escuela Elemental, una Elemental de Fuego. Tendr\u00e1 que ayudar a su enamorada a descubrir sus poderes y convencer a los dem\u00e1s de que es buena, ya que su amor est\u00e1 prohibido. \u00bfQu\u00e9 pasar\u00e1? \u00a1Desc\u00fabrelo!\n\n\n#Minecraft #MinecraftMod #Dagar #NachoyDagar"
+        },
+        "defaultAudioLanguage": "es-ES"
+      },
+      "contentDetails": {
+        "duration": "PT22M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "597954",
+        "likeCount": "9873",
+        "favoriteCount": "0",
+        "commentCount": "728"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hjbj5cdiVyKzSLdbSloc0tdSMR0",
+      "id": "e2GFmGB-yq8",
+      "snippet": {
+        "publishedAt": "2025-08-09T18:01:34Z",
+        "channelId": "UCogT6Txk2-dvoyFEMQj4CGQ",
+        "title": "El Yala Ft. Lapiz Conciente X La Gre\u00f1a - CONTRARIO REMIX",
+        "description": "\"Contrario\" by: El Yala Ft. Lapiz Conciente X La Gre\u00f1a\n\nRedes sociales:\nInstagram | https://www.instagram.com/elyala16/\nSpotify |https://shortifyme.co/eyLG8\n\nCr\u00e9ditos:\nDirector De Audio Visual: Peluca Films  \nProductor Musical : \u202a@Lagrenaprod \nProducci\u00f3n: E.M.E (Elite Music Entertainment)\n#ElYala #dembow #lodelicuentetanderisa \n\nEl Yala Ft. Lapiz Conciente X La Gre\u00f1a - CONTRARIO REMIX\n\n\u2117 2025 Elite Entertainment SRL\n\u00a9 2025  Exclusive License Elite Entertainment. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2GFmGB-yq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2GFmGB-yq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2GFmGB-yq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e2GFmGB-yq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL YALA",
+        "tags": [
+          "el yala",
+          "yala",
+          "contrario",
+          "contrario remix",
+          "lapiz",
+          "Lapiz Conciente",
+          "La Gre\u00f1a",
+          "Gre\u00f1a",
+          "tan soldao",
+          "mi area"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "El Yala Ft. Lapiz Conciente X La Gre\u00f1a - CONTRARIO REMIX",
+          "description": "\"Contrario\" by: El Yala Ft. Lapiz Conciente X La Gre\u00f1a\n\nRedes sociales:\nInstagram | https://www.instagram.com/elyala16/\nSpotify |https://shortifyme.co/eyLG8\n\nCr\u00e9ditos:\nDirector De Audio Visual: Peluca Films  \nProductor Musical : \u202a@Lagrenaprod \nProducci\u00f3n: E.M.E (Elite Music Entertainment)\n#ElYala #dembow #lodelicuentetanderisa \n\nEl Yala Ft. Lapiz Conciente X La Gre\u00f1a - CONTRARIO REMIX\n\n\u2117 2025 Elite Entertainment SRL\n\u00a9 2025  Exclusive License Elite Entertainment. All Rights Reserved."
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "188737",
+        "likeCount": "19549",
+        "favoriteCount": "0",
+        "commentCount": "1183"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eJ_R2fYmctGRJI6ElFKan5uUtIM",
+      "id": "9uIi3uCUNOA",
+      "snippet": {
+        "publishedAt": "2025-08-09T12:59:11Z",
+        "channelId": "UCEbVfdA43w83_ilZ1ZlZH3Q",
+        "title": "skibidi toilet multiverse 047 (part 2) Trailer",
+        "description": "Champion knew sinister wouldn't give up and would eventually kill him, as he to let sinister get what he wanted and decided to leave a message for Ethan\n\nIf you like this video, give it a thumbs up \ud83d\udc4d Subscribe to the channel and click the bell \ud83d\udd14\nhttps://www.youtube.com/@DOM_Studio\n\u25ac\u25ac\u25ac\u25ac\u25ac\nLinks and credits\n\n\ud83d\udd3bSkibidi toilets Original series by  @DaFuqBoom   \n\ud83d\udd3bClockmen Designs inspirations: \nhttps://twitter.com/BabyWuchang\nhttps://twitter.com/clockmaid\n\n\nMusic's\ud83c\udfb5 \n\u25b6\n\n\ud83d\udca0Business Inquiries / Work Opportunities / Sponsorships can be discussed via email:\ndomstudio.business@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83d\udcccFollow our Social Media:\n\n\ud83c\udfaeJoin our Discord: https://discord.gg/2XUFpnFTyd\n\ud83d\udc26Follow our Tweets: https://twitter.com/DomStudio\n\ud83d\udcf1 Check our Instagram: https://www.instagram.com/dom_studio_iran/\n\ud83c\udfb6Follow our TikTok page: https://www.tiktok.com/@domstudio_official?lang=en\n\u25b6\ufe0f Subscribe: https://www.youtube.com/channel/UCEbVfdA43w83_ilZ1ZlZH3Q\n\n#indieanimation   #skibiditoilet  #domstudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9uIi3uCUNOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9uIi3uCUNOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9uIi3uCUNOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9uIi3uCUNOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9uIi3uCUNOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DOM Studio",
+        "tags": [
+          "skibidi",
+          "skibidi toilet",
+          "skibidi dom dom yes yes",
+          "Cameraman",
+          "Speakerman",
+          "tvman",
+          "Clockman",
+          "Drillman",
+          "Camera man",
+          "Speaker man",
+          "Tv man",
+          "Clock man",
+          "Titan Cameraman",
+          "Titan Tvman",
+          "skibidibopyesyesyes",
+          "TV show",
+          "Sfm",
+          "Blender",
+          "movie",
+          "war documentary",
+          "fiction",
+          "Secret episode",
+          "secret",
+          "New episode",
+          "Business",
+          "Skibidi multiverse",
+          "multiverse",
+          "Skibidi toilet multiverse",
+          "Horror",
+          "action",
+          "comedy",
+          "prank",
+          "Fortnite",
+          "worst",
+          "Best",
+          "Mrbeast",
+          "Challenge",
+          "surprise",
+          "Titan Speakerman",
+          "Titan Clockman",
+          "Titan Drillman",
+          "Anime",
+          "what"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "skibidi toilet multiverse 047 (part 2) Trailer",
+          "description": "Champion knew sinister wouldn't give up and would eventually kill him, as he to let sinister get what he wanted and decided to leave a message for Ethan\n\nIf you like this video, give it a thumbs up \ud83d\udc4d Subscribe to the channel and click the bell \ud83d\udd14\nhttps://www.youtube.com/@DOM_Studio\n\u25ac\u25ac\u25ac\u25ac\u25ac\nLinks and credits\n\n\ud83d\udd3bSkibidi toilets Original series by  @DaFuqBoom   \n\ud83d\udd3bClockmen Designs inspirations: \nhttps://twitter.com/BabyWuchang\nhttps://twitter.com/clockmaid\n\n\nMusic's\ud83c\udfb5 \n\u25b6\n\n\ud83d\udca0Business Inquiries / Work Opportunities / Sponsorships can be discussed via email:\ndomstudio.business@gmail.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83d\udcccFollow our Social Media:\n\n\ud83c\udfaeJoin our Discord: https://discord.gg/2XUFpnFTyd\n\ud83d\udc26Follow our Tweets: https://twitter.com/DomStudio\n\ud83d\udcf1 Check our Instagram: https://www.instagram.com/dom_studio_iran/\n\ud83c\udfb6Follow our TikTok page: https://www.tiktok.com/@domstudio_official?lang=en\n\u25b6\ufe0f Subscribe: https://www.youtube.com/channel/UCEbVfdA43w83_ilZ1ZlZH3Q\n\n#indieanimation   #skibiditoilet  #domstudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT6M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1357373",
+        "likeCount": "65838",
+        "favoriteCount": "0",
+        "commentCount": "4906"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2jA_FRzUBW6hcfFuD3NT6ui02hw",
+      "id": "h-DWLV9Ztk8",
+      "snippet": {
+        "publishedAt": "2025-08-10T15:18:31Z",
+        "channelId": "UCmkyN2GfMyR7gsIiKBCR3nw",
+        "title": "Me Convert\u00ed en PERRO para Conseguir el COCHE M\u00c1S R\u00c1PIDO de Roblox Driving Empire!",
+        "description": "Hoy, Dagar se hace pasar por perro para conseguir el coche m\u00e1s r\u00e1pido de Driving Empire! El nuevo Pagani de 6,000,000$. \u00bfC\u00f3mo reaccionar\u00e1n sus amigos? \u00a1Desc\u00fabrelo!\n\n#Roblox #Dagar #NachoyDagar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h-DWLV9Ztk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h-DWLV9Ztk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h-DWLV9Ztk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h-DWLV9Ztk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h-DWLV9Ztk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dagar Roblox",
+        "tags": [
+          "roblox",
+          "roblox dagar",
+          "roblox nacho",
+          "nacho y dagar",
+          "dagar y nacho"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Me Convert\u00ed en PERRO para Conseguir el COCHE M\u00c1S R\u00c1PIDO de Roblox Driving Empire!",
+          "description": "Hoy, Dagar se hace pasar por perro para conseguir el coche m\u00e1s r\u00e1pido de Driving Empire! El nuevo Pagani de 6,000,000$. \u00bfC\u00f3mo reaccionar\u00e1n sus amigos? \u00a1Desc\u00fabrelo!\n\n#Roblox #Dagar #NachoyDagar"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT15M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "493588",
+        "likeCount": "8797",
+        "favoriteCount": "0",
+        "commentCount": "222"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7euHXP2hZgxyB9eMoNA9sBHhfgY",
+      "id": "cXVME_UDdmQ",
+      "snippet": {
+        "publishedAt": "2025-08-08T18:51:37Z",
+        "channelId": "UCEU5ZK7DwN9ppqPFJiGah3A",
+        "title": "El Alfa \"El Jefe\" x El Shick - K PARA DE QUE | Video Oficial",
+        "description": "\u00a9 2025 ONE BILLION RECORDS.\nEl Alfa en colaboraci\u00f3n con El Shick interpretan K PARA DE QUE, filmado en Barcelona, Espa\u00f1a y Miami, Florida bajo la direcci\u00f3n de CREADOR. \n\n#KParaDeQue \n#elalfaeljefe \n#elshick",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXVME_UDdmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXVME_UDdmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXVME_UDdmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cXVME_UDdmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cXVME_UDdmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ElAlfaElJefeTV",
+        "tags": [
+          "Music",
+          "Musica",
+          "Latino",
+          "Latin",
+          "Urban",
+          "Urbano",
+          "Trap",
+          "Reggaeton",
+          "Dembow",
+          "Rap",
+          "Hip Hop",
+          "Latin Hits",
+          "2019 Hits",
+          "Puerto Rico",
+          "Dominican Republic",
+          "Mexico",
+          "Miami",
+          "New York",
+          "Spain",
+          "Espa\u00f1a",
+          "mundial",
+          "Republica",
+          "dominicana",
+          "Republica Dominicana",
+          "Fuego",
+          "Fire",
+          "Bugatti",
+          "El Alfa",
+          "El Jefe",
+          "El Hombre",
+          "La leyenda",
+          "el androide",
+          "el animal",
+          "el",
+          "criminal",
+          "the best"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "El Alfa \"El Jefe\" x El Shick - K PARA DE QUE | Video Oficial",
+          "description": "\u00a9 2025 ONE BILLION RECORDS.\nEl Alfa en colaboraci\u00f3n con El Shick interpretan K PARA DE QUE, filmado en Barcelona, Espa\u00f1a y Miami, Florida bajo la direcci\u00f3n de CREADOR. \n\n#KParaDeQue \n#elalfaeljefe \n#elshick"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT3M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1147613",
+        "likeCount": "39215",
+        "favoriteCount": "0",
+        "commentCount": "3745"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EPmmyreWVXUFePEupQ3HrO1fpNc",
+      "id": "yGqbypEMcVA",
+      "snippet": {
+        "publishedAt": "2025-08-06T14:00:06Z",
+        "channelId": "UClG8odDC8TS6Zpqk9CGVQiQ",
+        "title": "Fortnite Battle Royale Chapter 6 Season 4: Shock 'N Awesome | Launch Trailer",
+        "description": "You\u2019re being tossed into the buggiest season yet with Fortnite\u2019s Battle Royale Chapter 6, Season 4: Shock \u2019N Awesome!\n\nThe bugs out there? Vicious, relentless, swarming. The Island is an absolute mess of goopy nests and egg sacs. Prepare to stomp and smash the swarm with the O.X.R., the Island\u2019s anti-bug military defense force.\n\nIf you\u2019re serious about stomping roachies, then you\u2019ll want to pick up new weapons issues by O.X.R. ike the Leadspitter 3000 minigun, Sweeper Shotgun, O.X.R. Rifle, Wrecker Revolver, or the laser-guided Swarmstrike rocket launcher.\n\nAnd don\u2019t forget about leveling up with the Shock \u2018N Awesome Battle Pass to knock the socks off the swarm with style! New Outfits include:\n\nUNSC Spartan\nYoo-mi\nAgent Patch\nBattle Gamer Mae\nLt. Ripp Slade\nOnyx Winter\nGreen Ranger\n\nTime to pelt pests, eliminating opposing enemies, and loot those Chests.\n\nGood luck out there, soldier!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yGqbypEMcVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yGqbypEMcVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGqbypEMcVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yGqbypEMcVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yGqbypEMcVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fortnite",
+        "tags": [
+          "yt:cc=on",
+          "halo",
+          "spartan",
+          "power rangers",
+          "mighty morphin",
+          "morphin power rangers",
+          "green ranger",
+          "fortnite",
+          "battle royale"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fortnite Battle Royale Chapter 6 Season 4: Shock 'N Awesome | Launch Trailer",
+          "description": "You\u2019re being tossed into the buggiest season yet with Fortnite\u2019s Battle Royale Chapter 6, Season 4: Shock \u2019N Awesome!\n\nThe bugs out there? Vicious, relentless, swarming. The Island is an absolute mess of goopy nests and egg sacs. Prepare to stomp and smash the swarm with the O.X.R., the Island\u2019s anti-bug military defense force.\n\nIf you\u2019re serious about stomping roachies, then you\u2019ll want to pick up new weapons issues by O.X.R. ike the Leadspitter 3000 minigun, Sweeper Shotgun, O.X.R. Rifle, Wrecker Revolver, or the laser-guided Swarmstrike rocket launcher.\n\nAnd don\u2019t forget about leveling up with the Shock \u2018N Awesome Battle Pass to knock the socks off the swarm with style! New Outfits include:\n\nUNSC Spartan\nYoo-mi\nAgent Patch\nBattle Gamer Mae\nLt. Ripp Slade\nOnyx Winter\nGreen Ranger\n\nTime to pelt pests, eliminating opposing enemies, and loot those Chests.\n\nGood luck out there, soldier!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2227619",
+        "likeCount": "84252",
+        "favoriteCount": "0",
+        "commentCount": "6793"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VCcQVCLN-GZf4Cx1nIFZaJs0F5g",
+      "id": "_GWBqMu3XJI",
+      "snippet": {
+        "publishedAt": "2025-08-11T13:40:27Z",
+        "channelId": "UCObgc5yL3AkW0Oj1uik2IcQ",
+        "title": "ENCONTR\u00c9 UNA PUERTA SECRETA en la PRISI\u00d3N de BROOKHAVEN",
+        "description": "\u2b50 C\u00d3DIGO DE ESTRELLA \u279c KING \ud83e\udd17\n\n\ud83d\udc9c \u00a1S\u00edgueme aqu\u00ed!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contacto Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para Fans\n\ud83d\udc8c WelixMensagens@gmail.com\n\nAurea Carmina de Kevin MacLeod est\u00e1 licenciada bajo la licencia Creative Commons Atribuci\u00f3n 4.0.\nhttps://creativecommons.org/licenses/by/4.0/\nFuente: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Brookhaven #Roblox #SoyWelix",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_GWBqMu3XJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_GWBqMu3XJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GWBqMu3XJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_GWBqMu3XJI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_GWBqMu3XJI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SoyWelix Brookhaven",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "ENCONTR\u00c9 UNA PUERTA SECRETA en la PRISI\u00d3N de BROOKHAVEN",
+          "description": "\u2b50 C\u00d3DIGO DE ESTRELLA \u279c KING \ud83e\udd17\n\n\ud83d\udc9c \u00a1S\u00edgueme aqu\u00ed!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contacto Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para Fans\n\ud83d\udc8c WelixMensagens@gmail.com\n\nAurea Carmina de Kevin MacLeod est\u00e1 licenciada bajo la licencia Creative Commons Atribuci\u00f3n 4.0.\nhttps://creativecommons.org/licenses/by/4.0/\nFuente: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Brookhaven #Roblox #SoyWelix"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT12M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "39623",
+        "likeCount": "771",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rvXMtzllX8HCAPV7sPDj12Q1wIg",
+      "id": "jKCV7hXV2Wg",
+      "snippet": {
+        "publishedAt": "2025-08-10T16:00:07Z",
+        "channelId": "UC6F6AS4FLnjmyAbugezoP6Q",
+        "title": "Toby Anbake - LE G\u00c9NIE (Official Video)",
+        "description": "Toby Anbake - LE G\u00c9NIE (Official Video)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jKCV7hXV2Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jKCV7hXV2Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jKCV7hXV2Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jKCV7hXV2Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jKCV7hXV2Wg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Toby Anbak\u00e8",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Toby Anbake - LE G\u00c9NIE (Official Video)",
+          "description": "Toby Anbake - LE G\u00c9NIE (Official Video)"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "109183",
+        "likeCount": "12117",
+        "favoriteCount": "0",
+        "commentCount": "3223"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wASedZt8vqvdfF4Cm4TkTx5uYEQ",
+      "id": "QwOyJras4xs",
+      "snippet": {
+        "publishedAt": "2025-08-11T13:30:20Z",
+        "channelId": "UC6P6SvP2arhEdJ9Pg8qwP2A",
+        "title": "12 JEITOS DE ROUBAR AVARITIA",
+        "description": "\ud83d\udcf8 Meu Instagram:\nhttps://www.instagram.com/_athos_br/\n\nBONECO ATHOS: \u2705\nhttps://lojadoathos.com\n\n\ud83d\udcde Contato comercial: \ncomercial@agenciacurta.com\n\n12 JEITOS DE ROUBAR AVARITIA\n12 JEITOS DE ROUBAR AVARITIA\n\n#minecraft #athos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwOyJras4xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwOyJras4xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwOyJras4xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QwOyJras4xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QwOyJras4xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Athos",
+        "tags": [
+          "minecraft",
+          "athos",
+          "athos gamer",
+          "minecraft pe",
+          "bedrock",
+          "java",
+          "pocket edition",
+          "maniqueft",
+          "Avaritia",
+          "Roubar"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "12 JEITOS DE ROUBAR AVARITIA",
+          "description": "\ud83d\udcf8 Meu Instagram:\nhttps://www.instagram.com/_athos_br/\n\nBONECO ATHOS: \u2705\nhttps://lojadoathos.com\n\n\ud83d\udcde Contato comercial: \ncomercial@agenciacurta.com\n\n12 JEITOS DE ROUBAR AVARITIA\n12 JEITOS DE ROUBAR AVARITIA\n\n#minecraft #athos"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT18M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "228109",
+        "likeCount": "4086",
+        "favoriteCount": "0",
+        "commentCount": "116"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-DFltoAZ4VnX3hu6dM8vRhc1Tok",
+      "id": "OZd2x6nrdcs",
+      "snippet": {
+        "publishedAt": "2025-08-08T19:00:06Z",
+        "channelId": "UC3RvfmNhVmDMm39-4HhQ7vg",
+        "title": "Be\u00e9le - si te pillara (LETRA)",
+        "description": "\ud83d\udccc\u00a1Muchas gracias por ver nuestros videos !! espero te haya gustado. \u2728\n\n\ud83d\udd14 \u00a1No olvides activar las notificaciones para mantenerte al tanto de nuestros nuevos v\u00eddeos!\n\n\u25b6\ufe0f Te invitamos a ver el v\u00eddeo oficial aqu\u00ed, si aun no lo has hecho !!\nhttps://youtu.be/GOS_HP_F-FY?si=rWYmZkITF3yslPo3\n\n\ud83d\udcdd Letra/ Lyrics:\n\nPilla, hay ojos que no se hacen los ciegos\nPorque las paredes no solo tienen o\u00eddos, \u00bfOiste? \nTambi\u00e9n tienen bemba\n\n\nSiento que pronto me fallar\u00e1s\nYo digo: \u201cver para creer\u201d.\nMuchos me dicen que ya hay alguien m\u00e1s que te vieron por ah\u00ed con un tal \u201cEst\u00e1s loco marico. Ve a terapia\u201d.\n\nTe siento distante, un poco arrogante, ya siento que no sentimos lo de antes, aunque yo de tu boca no sentimos nada.\nSi te pillo con el gyal, si te pillara\u2026\n\nAy, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros, lloro.\n\nSi me mientes devuelve mi cora destrozado.\nEso no aguanta esto me hace sentir desconfiado\nLas ganas de verte a mi lado\nLas digo en pasado\n\nPerd\u00ed las esperanzas porque siento que me haces a un lado\nY sisaya pero cayaya, tu haciendo lo tuyo y yo aqu\u00ed en la playa\nRecuerdo tu boddy cuando guaya yeh me da nostalgia.\nTe extra\u00f1o tanto ya no te siento.\nDuele tu decisi\u00f3n de dejarme en la nada, si esto es real como est\u00e1n diciendo\u2026\nMe morir\u00eda si yo te pillara.\n\ny, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros lloro.\n\ny, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo\u2026\n\n#beele #sitepillara #Letra #cupidrecordings",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OZd2x6nrdcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OZd2x6nrdcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OZd2x6nrdcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OZd2x6nrdcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OZd2x6nrdcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cupid Recordings",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Be\u00e9le - si te pillara (LETRA)",
+          "description": "\ud83d\udccc\u00a1Muchas gracias por ver nuestros videos !! espero te haya gustado. \u2728\n\n\ud83d\udd14 \u00a1No olvides activar las notificaciones para mantenerte al tanto de nuestros nuevos v\u00eddeos!\n\n\u25b6\ufe0f Te invitamos a ver el v\u00eddeo oficial aqu\u00ed, si aun no lo has hecho !!\nhttps://youtu.be/GOS_HP_F-FY?si=rWYmZkITF3yslPo3\n\n\ud83d\udcdd Letra/ Lyrics:\n\nPilla, hay ojos que no se hacen los ciegos\nPorque las paredes no solo tienen o\u00eddos, \u00bfOiste? \nTambi\u00e9n tienen bemba\n\n\nSiento que pronto me fallar\u00e1s\nYo digo: \u201cver para creer\u201d.\nMuchos me dicen que ya hay alguien m\u00e1s que te vieron por ah\u00ed con un tal \u201cEst\u00e1s loco marico. Ve a terapia\u201d.\n\nTe siento distante, un poco arrogante, ya siento que no sentimos lo de antes, aunque yo de tu boca no sentimos nada.\nSi te pillo con el gyal, si te pillara\u2026\n\nAy, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros, lloro.\n\nSi me mientes devuelve mi cora destrozado.\nEso no aguanta esto me hace sentir desconfiado\nLas ganas de verte a mi lado\nLas digo en pasado\n\nPerd\u00ed las esperanzas porque siento que me haces a un lado\nY sisaya pero cayaya, tu haciendo lo tuyo y yo aqu\u00ed en la playa\nRecuerdo tu boddy cuando guaya yeh me da nostalgia.\nTe extra\u00f1o tanto ya no te siento.\nDuele tu decisi\u00f3n de dejarme en la nada, si esto es real como est\u00e1n diciendo\u2026\nMe morir\u00eda si yo te pillara.\n\ny, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros lloro.\n\ny, ay, ay, si te pillara\nSi te pillara, ay si te pillara,\nSi te pillara, ay si te pillara,\nSi te pillo\u2026\n\n#beele #sitepillara #Letra #cupidrecordings"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "95741",
+        "likeCount": "357",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BRcVMxEws9WOTkLNWpU71xVUqlM",
+      "id": "tiGmCnl0678",
+      "snippet": {
+        "publishedAt": "2025-08-10T21:50:15Z",
+        "channelId": "UCZbf_T59xkHfE1khElY_XtQ",
+        "title": "Rob\u00e9 SU BRAINROT SUPREMO M\u00c1S OP a ADMIN ESTAFADOR en Steal a brainrot (roba un brainrot)",
+        "description": "\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\ud83d\udca5 No olvides dejar tu like si quieres que siga trayendo contenido exclusivo de este juegazo y SUSCR\u00cdBETE para no perderte las pr\u00f3ximas actualizaciones.\n\n#stealabrainrot #roblox #robaunbrainrot \n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCOMPRA ITEMS SUPER BARATOS DE TUS JUEGOS FAVORITOS:\nhttps://zeeryt.shop/\nhttps://zeeryt.shop/\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCANAL PRINCIPAL:\nhttps://www.youtube.com/@ZeerTheGoat\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nUNETE A MI COMUNIDAD DE DISCORD OFICIAL \ud83d\ude4c\u23ec\u23ec:\n\nhttps://discord.com/invite/zeergangoficial\n\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nSIGUEME EN INSTAGRAM \ud83d\ude09\ud83d\ude4f:\nhttps://www.instagram.com/kod.cg/\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI TIKTOK OFICIAL \ud83d\udc7b\ud83d\udcf7:\nhttps://www.tiktok.com/@srmaniacc\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI TWITTER \ud83e\uddfe\ud83d\ude01:\nhttps://twitter.com/AckCrr\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCONTACTOS Y PUBLICIDAD \ud83e\uddd0\ud83e\udd1d\ud83d\udcdd :\nanthonygastelo36@gmail.com\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI PERFIL DE ROBLOX:\nhttps://www.roblox.com/es/users/507687175/profile\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI GRUPO DE ROBLOX \ud83d\udc7b\ud83c\udf83:\nhttps://www.roblox.com/groups/7440498/Zeer-Gang#!/about\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tiGmCnl0678/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tiGmCnl0678/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiGmCnl0678/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tiGmCnl0678/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tiGmCnl0678/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zeer",
+        "tags": [
+          "roblox",
+          "trending roblox",
+          "viral roblox",
+          "actualizacion 2025 roblox",
+          "gameplay roblox",
+          "roblox update",
+          "roblox event",
+          "brainrot update",
+          "robux",
+          "gastando robux",
+          "50000 robux",
+          "zeer yt",
+          "zeer roblox",
+          "zeer brainrot",
+          "roblox espa\u00f1ol",
+          "juegos de roblox",
+          "roblox viral",
+          "trucos roblox",
+          "actualizacion roblox",
+          "zeeryt",
+          "roba un brainrot en espa\u00f1ol",
+          "roba un brainrot",
+          "steal a brainrot",
+          "como robar brainrots rapido en steal a brainrot",
+          "brainrots gratis en roblox",
+          "como conseguir brainrots gratis"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rob\u00e9 SU BRAINROT SUPREMO M\u00c1S OP a ADMIN ESTAFADOR en Steal a brainrot (roba un brainrot)",
+          "description": "\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\ud83d\udca5 No olvides dejar tu like si quieres que siga trayendo contenido exclusivo de este juegazo y SUSCR\u00cdBETE para no perderte las pr\u00f3ximas actualizaciones.\n\n#stealabrainrot #roblox #robaunbrainrot \n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCOMPRA ITEMS SUPER BARATOS DE TUS JUEGOS FAVORITOS:\nhttps://zeeryt.shop/\nhttps://zeeryt.shop/\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCANAL PRINCIPAL:\nhttps://www.youtube.com/@ZeerTheGoat\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nUNETE A MI COMUNIDAD DE DISCORD OFICIAL \ud83d\ude4c\u23ec\u23ec:\n\nhttps://discord.com/invite/zeergangoficial\n\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nSIGUEME EN INSTAGRAM \ud83d\ude09\ud83d\ude4f:\nhttps://www.instagram.com/kod.cg/\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI TIKTOK OFICIAL \ud83d\udc7b\ud83d\udcf7:\nhttps://www.tiktok.com/@srmaniacc\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI TWITTER \ud83e\uddfe\ud83d\ude01:\nhttps://twitter.com/AckCrr\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nCONTACTOS Y PUBLICIDAD \ud83e\uddd0\ud83e\udd1d\ud83d\udcdd :\nanthonygastelo36@gmail.com\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI PERFIL DE ROBLOX:\nhttps://www.roblox.com/es/users/507687175/profile\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\nMI GRUPO DE ROBLOX \ud83d\udc7b\ud83c\udf83:\nhttps://www.roblox.com/groups/7440498/Zeer-Gang#!/about\n\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b\u2e3b"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT20M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "826491",
+        "likeCount": "4115",
+        "favoriteCount": "0",
+        "commentCount": "686"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W9kXSeeXWDMQZ1iKNLI6WPyRbr8",
+      "id": "Kzv-hD9-GS4",
+      "snippet": {
+        "publishedAt": "2025-08-09T19:00:27Z",
+        "channelId": "UCFUf4c4_fgXfoNnvbEpcaeg",
+        "title": "Be\u00e9le - Frente Al Mar (Letra)",
+        "description": "Frente Al Mar - Be\u00e9le (Letra/Lyrics) #FrenteAlMar #Beele\nDespu\u00e9s que salimo\u2019 fuimos frente al mar, frente al mar, frente al mar.\n\nEscucha el v\u00eddeo oficial: https://www.youtube.com/watch?v=IryOLXtyTRU\n\n\ud83c\udfa7Sigue a Be\u00e9le:\nSpotify: https://open.spotify.com/artist/4O4bsz9qtjFi8oqtoP38vE  \nYouTube: https://www.youtube.com/channel/UCYAQgXVSRzUeNo34-RJOWUw\nInstagram: https://www.instagram.com/beelemusic/  \nTikTok: https://www.tiktok.com/@beeleoficial\n\n\ud83d\udce2 No olvides suscribirte al canal para m\u00e1s lyrics de tus canciones favoritas \ud83d\udd14\n\nLetra de la canci\u00f3n:\nNadie la ve as\u00ed como mis ojos la ven\nLa quiero conmigo\nQuiero que sea mi mujer.\nYo la vi en un party, ahi fue donde enamor\u00e9\nDespu\u00e9s que salimo\u2019 fuimo\u2019 frente al mar,\nFrente al mar.\nBaby\nFrente al mar.\nDespu\u00e9s que salimo\u2019 fuimo\u2019 frente al mar\nFrente al mar\n(Solos)\nFrente al mar\nLa luna es testigo tu y yo frente al mar\n\nYUH BRUK\nHicimos de to\nHicimos de to\nHicimos de to\nHicimos de to\nOjal\u00e1 que un d\u00eda\nDiga que habr\u00eda pasao\u2019 si no\nMe fuera escapao\u2019 contigo pa ver llegar el sol\nDonde nadie nos vea\n\nHicimos To\u2019, Hicimos To\u2019\nToa\u2019 las poses\nHicimos de To\u2019, Hicimos To\u2019\nHicimos To\u2019, Hicimos To\u2019\nHicimos To\u2019\nFue inevitable hacernos de to\u2019\nDonde nadie nos vea\nDonde nadie nos vea\nDonde nadie nos vea\n\nDespu\u00e9s que salimo\u2019 fuimos frente al mar,\nfrente al mar\nBaby\nfrente al mar\nDespu\u00e9s que salimos solos frente al mar\nFrente al mar\n(Solos)\nFrente al mar\nLa luna es testigo tu y yo\nFrente al mar, frente al mar\nfrente al mar.\nDespu\u00e9s que salimos solos\nfrente al mar, frente al mar\nSolos\nfrente al mar\nLa luna es testigo\nT\u00fa y yo frente al mar.\nHicimos de To\u2019, hicimos de to\u2019\nHicimos de To\u2019\nOjal\u00e1 que un d\u00eda diga Qu\u00e9 habr\u00eda pasado si no\nMe fuera escapao contigo pa ver llegar el sol\nDonde nadie nos vea\nHicimos to\u2019, hicimos to\u2019\n\n\n#LetraFrenteAlMar #LyricsFrenteAlMar #BeeleLetra #LyricVideo #MusicaLatina #ReggaetonRomantico #Beele2025 #MusicaUrbana #CancionViral #HitLatino #MusicaViral #TrapLatino #VideoLyrics #LetraBeele #FrenteAlMarLetra #CancionDelMomento #MusicaRomantica #BeeleOficial #CancionViral #be\u00e9le",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kzv-hD9-GS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kzv-hD9-GS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kzv-hD9-GS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kzv-hD9-GS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kzv-hD9-GS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Keller Lyrics",
+        "tags": [
+          "Frente al Mar",
+          "Be\u00e9le",
+          "Frente al Mar Be\u00e9le",
+          "Frente al Mar Letra",
+          "Letra Frente al Mar",
+          "Frente al Mar Lyrics",
+          "Lyrics Frente al Mar",
+          "Be\u00e9le Letra",
+          "Letra Be\u00e9le",
+          "M\u00fasica Latina",
+          "Reggaet\u00f3n 2025",
+          "Pop Urbano",
+          "M\u00fasica Rom\u00e1ntica",
+          "Nueva M\u00fasica",
+          "Hit Latino",
+          "Canci\u00f3n del Momento",
+          "M\u00fasica Viral",
+          "Be\u00e9le 2025",
+          "Canci\u00f3n Viral",
+          "Video con Letra",
+          "Letra Oficial Be\u00e9le",
+          "Frente al Mar Video",
+          "Frente al Mar Lyric Video",
+          "Be\u00e9le Frente al Mar Letra",
+          "Be\u00e9le Frente al Mar Lyrics",
+          "nuevo album de beele",
+          "borondo"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Be\u00e9le - Frente Al Mar (Letra)",
+          "description": "Frente Al Mar - Be\u00e9le (Letra/Lyrics) #FrenteAlMar #Beele\nDespu\u00e9s que salimo\u2019 fuimos frente al mar, frente al mar, frente al mar.\n\nEscucha el v\u00eddeo oficial: https://www.youtube.com/watch?v=IryOLXtyTRU\n\n\ud83c\udfa7Sigue a Be\u00e9le:\nSpotify: https://open.spotify.com/artist/4O4bsz9qtjFi8oqtoP38vE  \nYouTube: https://www.youtube.com/channel/UCYAQgXVSRzUeNo34-RJOWUw\nInstagram: https://www.instagram.com/beelemusic/  \nTikTok: https://www.tiktok.com/@beeleoficial\n\n\ud83d\udce2 No olvides suscribirte al canal para m\u00e1s lyrics de tus canciones favoritas \ud83d\udd14\n\nLetra de la canci\u00f3n:\nNadie la ve as\u00ed como mis ojos la ven\nLa quiero conmigo\nQuiero que sea mi mujer.\nYo la vi en un party, ahi fue donde enamor\u00e9\nDespu\u00e9s que salimo\u2019 fuimo\u2019 frente al mar,\nFrente al mar.\nBaby\nFrente al mar.\nDespu\u00e9s que salimo\u2019 fuimo\u2019 frente al mar\nFrente al mar\n(Solos)\nFrente al mar\nLa luna es testigo tu y yo frente al mar\n\nYUH BRUK\nHicimos de to\nHicimos de to\nHicimos de to\nHicimos de to\nOjal\u00e1 que un d\u00eda\nDiga que habr\u00eda pasao\u2019 si no\nMe fuera escapao\u2019 contigo pa ver llegar el sol\nDonde nadie nos vea\n\nHicimos To\u2019, Hicimos To\u2019\nToa\u2019 las poses\nHicimos de To\u2019, Hicimos To\u2019\nHicimos To\u2019, Hicimos To\u2019\nHicimos To\u2019\nFue inevitable hacernos de to\u2019\nDonde nadie nos vea\nDonde nadie nos vea\nDonde nadie nos vea\n\nDespu\u00e9s que salimo\u2019 fuimos frente al mar,\nfrente al mar\nBaby\nfrente al mar\nDespu\u00e9s que salimos solos frente al mar\nFrente al mar\n(Solos)\nFrente al mar\nLa luna es testigo tu y yo\nFrente al mar, frente al mar\nfrente al mar.\nDespu\u00e9s que salimos solos\nfrente al mar, frente al mar\nSolos\nfrente al mar\nLa luna es testigo\nT\u00fa y yo frente al mar.\nHicimos de To\u2019, hicimos de to\u2019\nHicimos de To\u2019\nOjal\u00e1 que un d\u00eda diga Qu\u00e9 habr\u00eda pasado si no\nMe fuera escapao contigo pa ver llegar el sol\nDonde nadie nos vea\nHicimos to\u2019, hicimos to\u2019\n\n\n#LetraFrenteAlMar #LyricsFrenteAlMar #BeeleLetra #LyricVideo #MusicaLatina #ReggaetonRomantico #Beele2025 #MusicaUrbana #CancionViral #HitLatino #MusicaViral #TrapLatino #VideoLyrics #LetraBeele #FrenteAlMarLetra #CancionDelMomento #MusicaRomantica #BeeleOficial #CancionViral #be\u00e9le"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "292028",
+        "likeCount": "262",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tIxMAiwA4DpUZ03a_SbuR2m3rPM",
+      "id": "miioDIqu2QI",
+      "snippet": {
+        "publishedAt": "2025-08-11T01:46:00Z",
+        "channelId": "UCJ5v9VGVca67dg0nLrohopQ",
+        "title": "Jugamos ESCALA y RUEDA con Mi Fan Loca en Roblox!",
+        "description": "CONSIGUE TU LIBRO: https://bit.ly/3PRKdCS\n\n\u00danete a Mi Grupo en Roblox: https://www.roblox.com/es/groups/34930025/Awita-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/miioDIqu2QI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/miioDIqu2QI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/miioDIqu2QI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/miioDIqu2QI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/miioDIqu2QI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AwitaDos",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jugamos ESCALA y RUEDA con Mi Fan Loca en Roblox!",
+          "description": "CONSIGUE TU LIBRO: https://bit.ly/3PRKdCS\n\n\u00danete a Mi Grupo en Roblox: https://www.roblox.com/es/groups/34930025/Awita-"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "140363",
+        "likeCount": "3012",
+        "favoriteCount": "0",
+        "commentCount": "227"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "48QQ1AD5UiMGtMxpgIIYtMWnbRQ",
+      "id": "S12zoPDDmo0",
+      "snippet": {
+        "publishedAt": "2025-08-08T19:31:01Z",
+        "channelId": "UCLWEStfRAScbKik3Dsfe0FA",
+        "title": "Jezzy - SINSENTI (Video Oficial)",
+        "description": "Jezzy - SINSENTI | Video Oficial \u201cDETESTO\u201d\nProd. by Herido No Muerto\nDirecci\u00f3n: Lehwiz x Teipi\nProducci\u00f3n: Niloquites \nPA: Pur\u00e9 \nDP: Teipi\nAC/Focus Puller: Albert Ferrer\nGaffer: Isa\u00edas Morillo\nGrip: Rony Gerard y Ander Ram\u00edrez\nFoto Fija: Cosacox\nDept. de Arte: Andres Santana\nAsist. de Arte: Jesus Sanchez y Freiky L\u00f3pez \nVestuario:\u00a0Alanis\u00a0Mercedes\nTittle Card: Josue YG\n\nDisponible en todas la plataformas\n\nLetra: SINSENTI \ud83d\udc94\n\n(Intro)\n\nDetesto cuando siento que no son honesto\nSea por mensaje de voz o mensaje de texto\nSon uno RPSM no tiene afecto\nPor eso mi arma de fuego a nadie le presto\n\nSi quiero singar la chica no pone pretexto \nPorque le doy pila de \u00f1ema y me manifiesto\nPero si te va con otro yo no te molesto\nMe busco otra m\u00e1s peluche y olv\u00eddamo esto\n\n(Coro X2)\n\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \nEto\u2019 e sin sentimiento Eto\u2019 e sin sentimiento\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\n\nSi forza el motor en primera se levanta \nA qu\u00e9 usted se dedica? Soy el mu\u00f1eco que canta\nCon lo\u2019 dicrine\u2019 frio me ven y me dan banda\nTiene\u2019 que tener cuidao\u2019 con quien e\u2019 que t\u00fa anda\n\nQue mami me dijo que se hizo un sue\u00f1o raro\nY yo en estos d\u00edas maquinando un sicariato\nHay pila de gente que son descarado \nLos digitales preso lo sueltan en un rato\n\nUn tollo en el sistema est\u00e1 saliendo muy caro\nSi no tengo eso encima yo no me paro\nSoy una amenaza la para del movimiento\nSi llego homicidio a mi casa eso est\u00e1 raro\n\n(Coro X2)\n\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \nEto\u2019 e sin sentimiento Eto\u2019 e sin sentimiento\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \n\nSi te gust\u00f3 este video comenta debajo y no olvides suscribirte a mi canal de YouTube. Activas las notificaciones \u00a1No te pierdas ning\u00fan estreno! \n\nhttps://bit.ly/JezzyYouTube\n\n_________________\n\nSigue a Jezzy / Follow Jezzy:\nhttps://www.instagram.com/jezzyelchef/\nhttps://www.tiktok.com/@jezzyelchef\nhttps://spoti.fi/48124hO\n\nOfficial Music Video by Jezzy performing SINSENTI.\n\njezzy,sinsenti,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S12zoPDDmo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S12zoPDDmo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S12zoPDDmo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S12zoPDDmo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S12zoPDDmo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jezzy El Chef",
+        "tags": [
+          "jezzy",
+          "jezzy el chef",
+          "el chef de los versos",
+          "yezzy",
+          "bloque pantomima",
+          "yezzy el chef",
+          "jezzy el chef de los versoss",
+          "dembow",
+          "sin senti",
+          "jezzy sin senti",
+          "sin sentimiento como lo mu\u00f1eco",
+          "sin sentimiento jezzy",
+          "jezzy sin sentimiento",
+          "jezzy sinsenti",
+          "sinsenti",
+          "sinsenti jezzy",
+          "yezzy sin senti"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jezzy - SINSENTI (Video Oficial)",
+          "description": "Jezzy - SINSENTI | Video Oficial \u201cDETESTO\u201d\nProd. by Herido No Muerto\nDirecci\u00f3n: Lehwiz x Teipi\nProducci\u00f3n: Niloquites \nPA: Pur\u00e9 \nDP: Teipi\nAC/Focus Puller: Albert Ferrer\nGaffer: Isa\u00edas Morillo\nGrip: Rony Gerard y Ander Ram\u00edrez\nFoto Fija: Cosacox\nDept. de Arte: Andres Santana\nAsist. de Arte: Jesus Sanchez y Freiky L\u00f3pez \nVestuario:\u00a0Alanis\u00a0Mercedes\nTittle Card: Josue YG\n\nDisponible en todas la plataformas\n\nLetra: SINSENTI \ud83d\udc94\n\n(Intro)\n\nDetesto cuando siento que no son honesto\nSea por mensaje de voz o mensaje de texto\nSon uno RPSM no tiene afecto\nPor eso mi arma de fuego a nadie le presto\n\nSi quiero singar la chica no pone pretexto \nPorque le doy pila de \u00f1ema y me manifiesto\nPero si te va con otro yo no te molesto\nMe busco otra m\u00e1s peluche y olv\u00eddamo esto\n\n(Coro X2)\n\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \nEto\u2019 e sin sentimiento Eto\u2019 e sin sentimiento\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\n\nSi forza el motor en primera se levanta \nA qu\u00e9 usted se dedica? Soy el mu\u00f1eco que canta\nCon lo\u2019 dicrine\u2019 frio me ven y me dan banda\nTiene\u2019 que tener cuidao\u2019 con quien e\u2019 que t\u00fa anda\n\nQue mami me dijo que se hizo un sue\u00f1o raro\nY yo en estos d\u00edas maquinando un sicariato\nHay pila de gente que son descarado \nLos digitales preso lo sueltan en un rato\n\nUn tollo en el sistema est\u00e1 saliendo muy caro\nSi no tengo eso encima yo no me paro\nSoy una amenaza la para del movimiento\nSi llego homicidio a mi casa eso est\u00e1 raro\n\n(Coro X2)\n\nEto\u2019 e sin sentimiento como lo mu\u00f1eco\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \nEto\u2019 e sin sentimiento Eto\u2019 e sin sentimiento\nEto\u2019 e sin sentimiento como lo mu\u00f1eco \n\nSi te gust\u00f3 este video comenta debajo y no olvides suscribirte a mi canal de YouTube. Activas las notificaciones \u00a1No te pierdas ning\u00fan estreno! \n\nhttps://bit.ly/JezzyYouTube\n\n_________________\n\nSigue a Jezzy / Follow Jezzy:\nhttps://www.instagram.com/jezzyelchef/\nhttps://www.tiktok.com/@jezzyelchef\nhttps://spoti.fi/48124hO\n\nOfficial Music Video by Jezzy performing SINSENTI.\n\njezzy,sinsenti,"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT2M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "192008",
+        "likeCount": "13822",
+        "favoriteCount": "0",
+        "commentCount": "3222"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zSOQM_Ytib-7y2Xy6gX0dv8fyNc",
+      "id": "rPTFqdxAXuA",
+      "snippet": {
+        "publishedAt": "2025-08-11T01:51:56Z",
+        "channelId": "UCA1OT7BIxuNy5lZACgSJAFw",
+        "title": "Moto CG 250 Uber Modificada A 500 CC De Arrancones Sorprendo A Mis Amigos En Gta Rp /",
+        "description": "Soy miembro de la pandilla mas temible y recluto a mi mejor amigo en gta rp.\n\n#gta  #arrancones  #racing #carreras #cerditorp\n\n\u2764 Instagram: https://www.instagram.com/yimmy_mi/\nKICK: https://kick.com/cerdito-rp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rPTFqdxAXuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rPTFqdxAXuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rPTFqdxAXuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rPTFqdxAXuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rPTFqdxAXuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cerdito RP",
+        "tags": [
+          "gta",
+          "cerdito",
+          "rp",
+          "deep web",
+          "thenino",
+          "roleplay",
+          "gta 5",
+          "gta 6",
+          "compro en la deep web",
+          "payaso de la deep web",
+          "payaso",
+          "recato a mi amigo",
+          "mi amigo raptado",
+          "el fin de los payasos",
+          "auto de la deep web",
+          "millonario",
+          "millonario gta rp",
+          "compro auto",
+          "compro carro",
+          "auto de oro",
+          "pandilla",
+          "soy pandillero",
+          "moto",
+          "mi moto"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Moto CG 250 Uber Modificada A 500 CC De Arrancones Sorprendo A Mis Amigos En Gta Rp /",
+          "description": "Soy miembro de la pandilla mas temible y recluto a mi mejor amigo en gta rp.\n\n#gta  #arrancones  #racing #carreras #cerditorp\n\n\u2764 Instagram: https://www.instagram.com/yimmy_mi/\nKICK: https://kick.com/cerdito-rp"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11892",
+        "likeCount": "399",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t6HhCR11ZSldyGz9dFxxDxRz-Yw",
+      "id": "eFoA_zybKyE",
+      "snippet": {
+        "publishedAt": "2025-08-09T21:00:40Z",
+        "channelId": "UCpnegD7S8Iuv_4rh22B4Srg",
+        "title": "Be\u00e9le - qu\u00e9date (Letra)",
+        "description": "\ud83c\udfb5 Be\u00e9le - qu\u00e9date\n\nBe\u00e9le:\nhttps://www.instagram.com/beele/\nhttps://open.spotify.com/intl-es/artist/7a0XAaPaK2aDSqa8p3QnC7\nhttps://www.tiktok.com/@beele\nhttps://www.facebook.com/beelemusica/\n\n\u27a5 Socials ChilleandoBeats :\nhttps://www.instagram.com/chilleandobeats/\n\n\u27a5 Nuestra Playlist de Spotify! :\nhttps://open.spotify.com/playlist/288aSZgtYSeRJyqve1R3Zf?si=cfb666c0048c4c0d\n\u27a5 Nuestra Playlist! de Youtube! :\nhttps://youtube.com/playlist?list=PLhwamExob6s1FdwdAAK8cjMm5DxpX7zHw&si=jgpcjaa2VH0-V6PG\n\n\ud83d\udd14 Activa las notificaciones para enterarte de los v\u00eddeos nuevos!\n\n[Letra de \"qu\u00e9date\"]\n\n[Verso 1]\n\u00bfC\u00f3mo le explico al coraz\u00f3n que quieres irte?\nSi tienes dudas, mami, no te estoy mintiendo\nMira mis ojos mientras mi alma se desviste\nLos que miras justo cuando me estoy viniendo\nC\u00f3mo quisiera que estuvieras aqu\u00ed\nMe sintieras a m\u00ed al ladito tuyo\nPa' que veas que yo no puedo fingir\nY me puedo morir por los besos tuyos\nC\u00f3mo quisiera que estuvieras aqu\u00ed\nMe sintieras a m\u00ed al ladito tuyo\nPa' que veas que yo no puedo fingir\nY me puedo morir por los besos tuyos\n\n[Coro]\nVen qu\u00e9date, qu\u00e9date\nNo puedo estar sin ti\nQu\u00e9date, qu\u00e9date\nOh-oh, no puedo estar sin ti\nOh, no-no-no\nOh, no-no-no\nQu\u00e9date\nNo puedo estar sin ti\n\n[Verso 2]\nEste que est\u00e1 aqu\u00ed a ti no te quiere dejar\nEste que est\u00e1 aqu\u00ed tambi\u00e9n se deja llevar\nEstamo' destinados a juntos celebrar la Navidad\nEsto nunca tuvo sentido, fuimos en contra de la Ley Universal\nQu\u00e9 visaje, cule' viaje\nDime c\u00f3mo evitamos las se\u00f1ales\nA veces yo quisiera que no pare\nPero esto me va a matar\nQuiero ver qu\u00e9 responde, no me tira ni: \"Hola\"\nY yo aqu\u00ed con cule' bartola\nPensando en toda' las noche' que estuvimos a solas\nY no le par\u00e1bamos bolas\nChingando con un feeling, somos Reyes de las Olas\nEstoy frente a tu alma, porfa, ma', d\u00e9jame entrar\nPerm\u00edteme que entienda' que no existe nadie m\u00e1s\nY si me quedo contigo es porque t\u00fa eres la mond\u00e1\n\n[Coro]\nVen qu\u00e9date (qu\u00e9date), qu\u00e9date (qu\u00e9date)\nNo puedo estar sin ti (sin ti)\nQu\u00e9date, qu\u00e9date\nNo, no puedo estar sin ti\nOh, no-no-no\nOh, no-no-no\nQu\u00e9date (alright, alright)\nNo puedo estar sin ti\n\n#beele #be\u00e9le #quedate #chilleandobeats",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eFoA_zybKyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eFoA_zybKyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eFoA_zybKyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eFoA_zybKyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eFoA_zybKyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chilleando Beats",
+        "tags": [
+          "beele quedate",
+          "quedate beele",
+          "beele quedate letra",
+          "quedate beele letra",
+          "beele quedate lyrics",
+          "letra quedate beele",
+          "beele - quedate",
+          "quedate by beele",
+          "letra beele quedate",
+          "beele quedate conmigo",
+          "quedate letra beele",
+          "beele - quedate letra",
+          "quedate beele lyrics",
+          "quedate belee",
+          "quedate conmigo beele",
+          "beele quedate letra lyrics",
+          "beele - quedate (letra)",
+          "quedate beele reaccion"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Be\u00e9le - qu\u00e9date (Letra)",
+          "description": "\ud83c\udfb5 Be\u00e9le - qu\u00e9date\n\nBe\u00e9le:\nhttps://www.instagram.com/beele/\nhttps://open.spotify.com/intl-es/artist/7a0XAaPaK2aDSqa8p3QnC7\nhttps://www.tiktok.com/@beele\nhttps://www.facebook.com/beelemusica/\n\n\u27a5 Socials ChilleandoBeats :\nhttps://www.instagram.com/chilleandobeats/\n\n\u27a5 Nuestra Playlist de Spotify! :\nhttps://open.spotify.com/playlist/288aSZgtYSeRJyqve1R3Zf?si=cfb666c0048c4c0d\n\u27a5 Nuestra Playlist! de Youtube! :\nhttps://youtube.com/playlist?list=PLhwamExob6s1FdwdAAK8cjMm5DxpX7zHw&si=jgpcjaa2VH0-V6PG\n\n\ud83d\udd14 Activa las notificaciones para enterarte de los v\u00eddeos nuevos!\n\n[Letra de \"qu\u00e9date\"]\n\n[Verso 1]\n\u00bfC\u00f3mo le explico al coraz\u00f3n que quieres irte?\nSi tienes dudas, mami, no te estoy mintiendo\nMira mis ojos mientras mi alma se desviste\nLos que miras justo cuando me estoy viniendo\nC\u00f3mo quisiera que estuvieras aqu\u00ed\nMe sintieras a m\u00ed al ladito tuyo\nPa' que veas que yo no puedo fingir\nY me puedo morir por los besos tuyos\nC\u00f3mo quisiera que estuvieras aqu\u00ed\nMe sintieras a m\u00ed al ladito tuyo\nPa' que veas que yo no puedo fingir\nY me puedo morir por los besos tuyos\n\n[Coro]\nVen qu\u00e9date, qu\u00e9date\nNo puedo estar sin ti\nQu\u00e9date, qu\u00e9date\nOh-oh, no puedo estar sin ti\nOh, no-no-no\nOh, no-no-no\nQu\u00e9date\nNo puedo estar sin ti\n\n[Verso 2]\nEste que est\u00e1 aqu\u00ed a ti no te quiere dejar\nEste que est\u00e1 aqu\u00ed tambi\u00e9n se deja llevar\nEstamo' destinados a juntos celebrar la Navidad\nEsto nunca tuvo sentido, fuimos en contra de la Ley Universal\nQu\u00e9 visaje, cule' viaje\nDime c\u00f3mo evitamos las se\u00f1ales\nA veces yo quisiera que no pare\nPero esto me va a matar\nQuiero ver qu\u00e9 responde, no me tira ni: \"Hola\"\nY yo aqu\u00ed con cule' bartola\nPensando en toda' las noche' que estuvimos a solas\nY no le par\u00e1bamos bolas\nChingando con un feeling, somos Reyes de las Olas\nEstoy frente a tu alma, porfa, ma', d\u00e9jame entrar\nPerm\u00edteme que entienda' que no existe nadie m\u00e1s\nY si me quedo contigo es porque t\u00fa eres la mond\u00e1\n\n[Coro]\nVen qu\u00e9date (qu\u00e9date), qu\u00e9date (qu\u00e9date)\nNo puedo estar sin ti (sin ti)\nQu\u00e9date, qu\u00e9date\nNo, no puedo estar sin ti\nOh, no-no-no\nOh, no-no-no\nQu\u00e9date (alright, alright)\nNo puedo estar sin ti\n\n#beele #be\u00e9le #quedate #chilleandobeats"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "102985",
+        "likeCount": "135",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g4cxBkKAJD3TutA7vnz6qsMHpG4",
+      "id": "qvCBaLrGqoU",
+      "snippet": {
+        "publishedAt": "2025-08-10T21:45:15Z",
+        "channelId": "UCH3h4jRKn3lJo0uORqqESPg",
+        "title": "Prob\u00e9 17 SECRETOS OCULTOS de STEAL a BRAINROT",
+        "description": "Hoy probaremos trucos ocultos de steal a brainrot (roba un brainrot) en Roblox para ver si son verdaderos\n\ud83d\udc96 \u00a1Recuerda SUSCRIBIRTE para ver todos mis videos!\n\ud83d\udea8 MI TIENDA OFICIAL: https://acenix.cat/ \ud83d\udea8\n \n\ud83d\udd3b Redes Sociales: \n\ud83d\udc26 Twitter: https://twitter.com/AcenixYT\n\ud83d\udcf7 Instagram: https://www.instagram.com/acenixyt/\n\ud83d\udc99 Facebook: https://www.facebook.com/AcenixYoutuber",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qvCBaLrGqoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qvCBaLrGqoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qvCBaLrGqoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qvCBaLrGqoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qvCBaLrGqoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Acenix",
+        "tags": [
+          "roblox"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Prob\u00e9 17 SECRETOS OCULTOS de STEAL a BRAINROT",
+          "description": "Hoy probaremos trucos ocultos de steal a brainrot (roba un brainrot) en Roblox para ver si son verdaderos\n\ud83d\udc96 \u00a1Recuerda SUSCRIBIRTE para ver todos mis videos!\n\ud83d\udea8 MI TIENDA OFICIAL: https://acenix.cat/ \ud83d\udea8\n \n\ud83d\udd3b Redes Sociales: \n\ud83d\udc26 Twitter: https://twitter.com/AcenixYT\n\ud83d\udcf7 Instagram: https://www.instagram.com/acenixyt/\n\ud83d\udc99 Facebook: https://www.facebook.com/AcenixYoutuber"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT20M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1221873",
+        "likeCount": "10775",
+        "favoriteCount": "0",
+        "commentCount": "822"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o2Rkggudz25QSoXOVG7ceawSyo0",
+      "id": "SFE09MuKZk8",
+      "snippet": {
+        "publishedAt": "2025-08-04T13:45:24Z",
+        "channelId": "UCL10xdJxgQye9GwTTHH7rfA",
+        "title": "Cuento de Hadas (Remastered)",
+        "description": "Provided to YouTube by ONErpm\n\nCuento de Hadas (Remastered) \u00b7 The One King \u00b7 Mickey peralta \u00b7 Daniel Vera\n\nCuento de Hadas\n\n\u2117 La Refineria.\n\nReleased on: 2025-08-01\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SFE09MuKZk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SFE09MuKZk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SFE09MuKZk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SFE09MuKZk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SFE09MuKZk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The One King - Topic",
+        "tags": [
+          "The One King",
+          "Mickey peralta",
+          "Daniel Vera",
+          "Cuento de Hadas"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cuento de Hadas (Remastered)",
+          "description": "Provided to YouTube by ONErpm\n\nCuento de Hadas (Remastered) \u00b7 The One King \u00b7 Mickey peralta \u00b7 Daniel Vera\n\nCuento de Hadas\n\n\u2117 La Refineria.\n\nReleased on: 2025-08-01\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "BY",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RU",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "60228",
+        "likeCount": "399",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GbkzHqljBCaYsp3ab-BTn0r4ahc",
+      "id": "VVEdJEvztwI",
+      "snippet": {
+        "publishedAt": "2025-08-11T00:07:33Z",
+        "channelId": "UC1nwm0p-v_EWFJc3cs88gcQ",
+        "title": "POR FIN!! LLEGO LA UPDATE 27 DE BLOX FRUITS \ud83d\ude2d!! (FECHA + TRAILER)",
+        "description": "Bienvenidos a un nuevo video de Roblox en Blox Fruits\n\n\ud83c\udfa9 - Perfil de Roblox: \nhttps://www.roblox.com/users/128080998/profile\n\nCanal Secundario: @rajo6386 \n\n\u2b50- Si quieres apoyarme recuerda:\nStar Code: RAJO (En la tienda de Roblox)\n \n\ud83c\udfa9 - Twitter: https://twitter.com/QueRajo?s=03\n\ud83c\udfa9 - Discord: https://discord.gg/endlessfantasy\n\ud83c\udfa9 - Grupo de Roblox: https://www.roblox.com/groups/3780568/Endless-Fantasy#!/about\n\nblox fruits, blox fruits update, blox fruit, rajo end, update 27, pain rework, rumble rework\n#roblox #bloxfruits #update27",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VVEdJEvztwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VVEdJEvztwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VVEdJEvztwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VVEdJEvztwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VVEdJEvztwI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rajo END",
+        "tags": [
+          "roblox",
+          "pain rework",
+          "rumble rework",
+          "rajo end",
+          "rip indra",
+          "blox fruits",
+          "blox fruit",
+          "blox fruits update",
+          "update 27",
+          "gamer robot",
+          "blox fruits trailer",
+          "trailer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es-419",
+        "localized": {
+          "title": "POR FIN!! LLEGO LA UPDATE 27 DE BLOX FRUITS \ud83d\ude2d!! (FECHA + TRAILER)",
+          "description": "Bienvenidos a un nuevo video de Roblox en Blox Fruits\n\n\ud83c\udfa9 - Perfil de Roblox: \nhttps://www.roblox.com/users/128080998/profile\n\nCanal Secundario: @rajo6386 \n\n\u2b50- Si quieres apoyarme recuerda:\nStar Code: RAJO (En la tienda de Roblox)\n \n\ud83c\udfa9 - Twitter: https://twitter.com/QueRajo?s=03\n\ud83c\udfa9 - Discord: https://discord.gg/endlessfantasy\n\ud83c\udfa9 - Grupo de Roblox: https://www.roblox.com/groups/3780568/Endless-Fantasy#!/about\n\nblox fruits, blox fruits update, blox fruit, rajo end, update 27, pain rework, rumble rework\n#roblox #bloxfruits #update27"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT9M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "109383",
+        "likeCount": "7320",
+        "favoriteCount": "0",
+        "commentCount": "1652"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q74OcXvt8mK8IcAAH21tjlfCVLU",
+      "id": "UXX9n16d_5M",
+      "snippet": {
+        "publishedAt": "2025-08-04T13:49:44Z",
+        "channelId": "UCxfp9XwbpWjG6eDbJy-ASFw",
+        "title": "Te Metiste en Mi Piel (Remastered)",
+        "description": "Provided to YouTube by ONErpm\n\nTe Metiste en Mi Piel (Remastered) \u00b7 THE ONE \u00b7 Daniel Vera \u00b7 Mickey peralta\n\nTe Metiste en Mi Piel\n\n\u2117 La Refineria.\n\nReleased on: 2025-08-01\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXX9n16d_5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXX9n16d_5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXX9n16d_5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UXX9n16d_5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UXX9n16d_5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE ONE - Topic",
+        "tags": [
+          "THE ONE",
+          "Daniel Vera",
+          "Mickey peralta",
+          "Te Metiste en Mi Piel"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Te Metiste en Mi Piel (Remastered)",
+          "description": "Provided to YouTube by ONErpm\n\nTe Metiste en Mi Piel (Remastered) \u00b7 THE ONE \u00b7 Daniel Vera \u00b7 Mickey peralta\n\nTe Metiste en Mi Piel\n\n\u2117 La Refineria.\n\nReleased on: 2025-08-01\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "BY",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RU",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "47360",
+        "likeCount": "568",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AWkwKWyDpDPbCe84WOniqWmV9HE",
+      "id": "81LOoPt2HmM",
+      "snippet": {
+        "publishedAt": "2025-08-11T08:26:03Z",
+        "channelId": "UCRQDX70n24UdpvDOVhEU-SQ",
+        "title": "BASE AFK de 1 MINUTO vs 10 MINUTOS vs 1 HORA en 99 Noches en el Bosque",
+        "description": "\ud83d\ude0e \u00danete al WhatsApp https://whatsapp.com/channel/0029VbBHeiJ17EmvahjQEh0f\n\ud83d\udce2 SIGUEME EN IG \ud83d\udc7b https://www.instagram.com/chelardop/\n\u2b50\u00danete al DISCORD https://discord.gg/KDscG2qAAe \n\ud83d\udd25 S\u00edgueme en ROBLOX https://www.roblox.com/users/1134093463/profile\n \nJuego: 99 Noches en el Bosque ROBLOX\n\n\ud83d\udd39 Contacto: johngbbusiness@gmail.com\n\nRoblox: sobrevivir una semana en el bosque, sobrevivir 99 dias en el bosque, sobrevivir 500 dias en el bosque en Roblox, Roblox: sobrevivir en el bosque final, Roblox: sobrevivir una semana en el bosque tutorial, Roblox: sobrevivir una semana en el bosque juego completo, Roblox: sobrevivir una semana en el bosque jugabilidad, Roblox, juegos de terror de Roblox, Roblox aterrador, Roblox horror, juego de terror de Roblox, Roblox aterrador, 99 noches en el bosque \ud83d\udd26, 99 d\u00edas en el bosque \ud83d\udd26",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/81LOoPt2HmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/81LOoPt2HmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/81LOoPt2HmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/81LOoPt2HmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/81LOoPt2HmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chelo",
+        "tags": [
+          "roblox",
+          "gameplay",
+          "divertido",
+          "nuevo",
+          "99 noches en el bosque",
+          "sobrevive 99 dias en el bosque",
+          "99 noches en el bosque roblox",
+          "tips",
+          "speedrun"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "BASE AFK de 1 MINUTO vs 10 MINUTOS vs 1 HORA en 99 Noches en el Bosque",
+          "description": "\ud83d\ude0e \u00danete al WhatsApp https://whatsapp.com/channel/0029VbBHeiJ17EmvahjQEh0f\n\ud83d\udce2 SIGUEME EN IG \ud83d\udc7b https://www.instagram.com/chelardop/\n\u2b50\u00danete al DISCORD https://discord.gg/KDscG2qAAe \n\ud83d\udd25 S\u00edgueme en ROBLOX https://www.roblox.com/users/1134093463/profile\n \nJuego: 99 Noches en el Bosque ROBLOX\n\n\ud83d\udd39 Contacto: johngbbusiness@gmail.com\n\nRoblox: sobrevivir una semana en el bosque, sobrevivir 99 dias en el bosque, sobrevivir 500 dias en el bosque en Roblox, Roblox: sobrevivir en el bosque final, Roblox: sobrevivir una semana en el bosque tutorial, Roblox: sobrevivir una semana en el bosque juego completo, Roblox: sobrevivir una semana en el bosque jugabilidad, Roblox, juegos de terror de Roblox, Roblox aterrador, Roblox horror, juego de terror de Roblox, Roblox aterrador, 99 noches en el bosque \ud83d\udd26, 99 d\u00edas en el bosque \ud83d\udd26"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "185258",
+        "likeCount": "1901",
+        "favoriteCount": "0",
+        "commentCount": "134"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3UlHgwx8bJASmXiJATQH1-Qmp7o",
+      "id": "Q7kC7r16tL4",
+      "snippet": {
+        "publishedAt": "2025-08-09T03:25:11Z",
+        "channelId": "UCK2c8aDSP0u7vb_4x-MYuRg",
+        "title": "Daniel Segura - Bala Perdida (Cover Audio)",
+        "description": "Artista: Daniel Segura\nT\u00edtulo: Bala Perdida\n\u00c1lbum: Qu\u00e9date Con \u00c9l\nFecha de estreno: 21 de julio de 2008\nSello discogr\u00e1fico: SONY BMG Music Entertainment (US Latin) LLC \nG\u00e9nero: M\u00fasica tropical - World music\n\nNo olvides suscribirte a mi canal \ud83d\udd14\nSuscr\u00edbete Aqu\u00ed \ud83d\udd17 https://www.youtube.com/@danielseguraofficial\n\nSigue a Daniel Segura \ud83d\udcf2\nFacebook: https://www.facebook.com/seguradanieloficial\nInstagram: https://www.instagram.com/danielseguraoficial\nTikTok: https://www.tiktok.com/@danielseguraoficial\n\nLanzado en 2008 bajo el sello SONY BMG Music Entertainment, Qu\u00e9date Con \u00c9l es un viaje musical que encapsula la esencia de la bachata y la m\u00fasica tropical. Con una duraci\u00f3n robusta y un repertorio de 12 canciones, el \u00e1lbum se mantiene vigente en plataformas digitales, ofreciendo temas emblem\u00e1ticos como \u201cBala Perdida\u201d y \u201cDespedida\u201d. Con una producci\u00f3n s\u00f3lida y un sonido que conecta con el p\u00fablico, este trabajo representa un hito en la carrera de Daniel Segura \ud83d\udcbd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7kC7r16tL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7kC7r16tL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7kC7r16tL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q7kC7r16tL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q7kC7r16tL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daniel Segura",
+        "tags": [
+          "Daniel Segura",
+          "Bachata",
+          "Es Daniel Busc\u00e1ndote",
+          "Canciones de Daniel Segura",
+          "M\u00fasica de Daniel Segura"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Daniel Segura - Bala Perdida (Cover Audio)",
+          "description": "Artista: Daniel Segura\nT\u00edtulo: Bala Perdida\n\u00c1lbum: Qu\u00e9date Con \u00c9l\nFecha de estreno: 21 de julio de 2008\nSello discogr\u00e1fico: SONY BMG Music Entertainment (US Latin) LLC \nG\u00e9nero: M\u00fasica tropical - World music\n\nNo olvides suscribirte a mi canal \ud83d\udd14\nSuscr\u00edbete Aqu\u00ed \ud83d\udd17 https://www.youtube.com/@danielseguraofficial\n\nSigue a Daniel Segura \ud83d\udcf2\nFacebook: https://www.facebook.com/seguradanieloficial\nInstagram: https://www.instagram.com/danielseguraoficial\nTikTok: https://www.tiktok.com/@danielseguraoficial\n\nLanzado en 2008 bajo el sello SONY BMG Music Entertainment, Qu\u00e9date Con \u00c9l es un viaje musical que encapsula la esencia de la bachata y la m\u00fasica tropical. Con una duraci\u00f3n robusta y un repertorio de 12 canciones, el \u00e1lbum se mantiene vigente en plataformas digitales, ofreciendo temas emblem\u00e1ticos como \u201cBala Perdida\u201d y \u201cDespedida\u201d. Con una producci\u00f3n s\u00f3lida y un sonido que conecta con el p\u00fablico, este trabajo representa un hito en la carrera de Daniel Segura \ud83d\udcbd"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8896",
+        "likeCount": "53",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fB6VZcdiVWpLU6bwahBPXvTzfXY",
+      "id": "MMmr2NiRGxo",
+      "snippet": {
+        "publishedAt": "2025-08-11T14:12:45Z",
+        "channelId": "UCEc6kZNBV0WAKV5GZlLLgwA",
+        "title": "C\u00d3MO TENER KORBLOX y HEADLESS HEAD en BROOKHAVEN",
+        "description": "\u2b50 C\u00d3DIGO DE ESTRELLA \u279c KING \ud83e\udd17\n\n\ud83d\udc9c \u00a1S\u00edgueme aqu\u00ed!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contacto Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para Fans\n\ud83d\udc8c WelixMensagens@gmail.com\n\nAurea Carmina de Kevin MacLeod est\u00e1 licenciada bajo la licencia Creative Commons Atribuci\u00f3n 4.0.\nhttps://creativecommons.org/licenses/by/4.0/\nFuente: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Brookhaven #Roblox #SoyWelix",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MMmr2NiRGxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MMmr2NiRGxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MMmr2NiRGxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MMmr2NiRGxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MMmr2NiRGxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SoyWelix",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "C\u00d3MO TENER KORBLOX y HEADLESS HEAD en BROOKHAVEN",
+          "description": "\u2b50 C\u00d3DIGO DE ESTRELLA \u279c KING \ud83e\udd17\n\n\ud83d\udc9c \u00a1S\u00edgueme aqu\u00ed!\n\u25cf Discord \u279c https://discord.gg/dS8kBptgJW\n\u25cf Instagram \u279c https://www.instagram.com/kingofyoutube_\n\u25cf Roblox \u279c https://www.roblox.com/groups/3957705\n\n\u2b50 Contacto Comercial\n\u2709\ufe0f WelixComercial@gmail.com\n\n\u2b50 Para Fans\n\ud83d\udc8c WelixMensagens@gmail.com\n\nAurea Carmina de Kevin MacLeod est\u00e1 licenciada bajo la licencia Creative Commons Atribuci\u00f3n 4.0.\nhttps://creativecommons.org/licenses/by/4.0/\nFuente: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006\nArtista: http://incompetech.com/\n\n#Brookhaven #Roblox #SoyWelix"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29280",
+        "likeCount": "661",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tfOMVtDBEekCrzxQRKqmqA1XZAI",
+      "id": "DuucTlB0aVk",
+      "snippet": {
+        "publishedAt": "2025-07-23T17:01:20Z",
+        "channelId": "UCjHuLQQonm96wyU89Mx4qMQ",
+        "title": "Fernando Villalona - Me He Enamorado",
+        "description": "\ud83d\udcc0 Esc\u00fachame tambi\u00e9n en tu plataforma favorita:\n\ud83c\udfa7 Spotify: https://open.spotify.com/artist/fernandovillalona\n\ud83c\udf4e Apple Music / iTunes: https://music.apple.com/us/artist/fernando-villalona/301677\n\n\ud83d\udcf2 S\u00edgueme y acomp\u00e1\u00f1ame tambi\u00e9n aqu\u00ed:\n\ud83d\udcf8 Instagram: https://instagram.com/elmayimbe\n\ud83d\udcd8 Facebook: https://facebook.com/fernandovillalonard\n\ud83d\udc26 Twitter: https://twitter.com/fervillalona\n\n\ud83d\udce9 Contrataciones y contacto profesional:\n\u2709\ufe0f fernandovillalonard@gmail.com\n\n\ud83c\udfb6 Gracias por ser parte de esta historia. Suscr\u00edbete, activa la campanita y comparte conmigo este legado que seguimos construyendo, nota tras nota, coraz\u00f3n con coraz\u00f3n.\n#FernandoVillalona #ElMayimbe  #merengue\ud83d\udcc0 Esc\u00fachame tambi\u00e9n en tu plataforma favorita:\n\ud83c\udfa7 Spotify: https://open.spotify.com/artist/fernandovillalona\n\ud83c\udf4e Apple Music / iTunes: https://music.apple.com/us/artist/fernando-villalona/301677\n\n\ud83d\udcf2 S\u00edgueme y acomp\u00e1\u00f1ame tambi\u00e9n aqu\u00ed:\n\ud83d\udcf8 Instagram: https://instagram.com/elmayimbe\n\ud83d\udcd8 Facebook: https://facebook.com/fernandovillalonard\n\ud83d\udc26 Twitter: https://twitter.com/fervillalona\n\n\ud83d\udce9 Contrataciones y contacto profesional:\n\u2709\ufe0f fernandovillalonard@gmail.com\n\n\ud83c\udfb6 Gracias por ser parte de esta historia. Suscr\u00edbete, activa la campanita y comparte conmigo este legado que seguimos construyendo, nota tras nota, coraz\u00f3n con coraz\u00f3n.\n#FernandoVillalona #ElMayimbe  #merengue",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DuucTlB0aVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DuucTlB0aVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DuucTlB0aVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DuucTlB0aVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DuucTlB0aVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Villalona",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fernando Villalona - Me He Enamorado",
+          "description": "\ud83d\udcc0 Esc\u00fachame tambi\u00e9n en tu plataforma favorita:\n\ud83c\udfa7 Spotify: https://open.spotify.com/artist/fernandovillalona\n\ud83c\udf4e Apple Music / iTunes: https://music.apple.com/us/artist/fernando-villalona/301677\n\n\ud83d\udcf2 S\u00edgueme y acomp\u00e1\u00f1ame tambi\u00e9n aqu\u00ed:\n\ud83d\udcf8 Instagram: https://instagram.com/elmayimbe\n\ud83d\udcd8 Facebook: https://facebook.com/fernandovillalonard\n\ud83d\udc26 Twitter: https://twitter.com/fervillalona\n\n\ud83d\udce9 Contrataciones y contacto profesional:\n\u2709\ufe0f fernandovillalonard@gmail.com\n\n\ud83c\udfb6 Gracias por ser parte de esta historia. Suscr\u00edbete, activa la campanita y comparte conmigo este legado que seguimos construyendo, nota tras nota, coraz\u00f3n con coraz\u00f3n.\n#FernandoVillalona #ElMayimbe  #merengue\ud83d\udcc0 Esc\u00fachame tambi\u00e9n en tu plataforma favorita:\n\ud83c\udfa7 Spotify: https://open.spotify.com/artist/fernandovillalona\n\ud83c\udf4e Apple Music / iTunes: https://music.apple.com/us/artist/fernando-villalona/301677\n\n\ud83d\udcf2 S\u00edgueme y acomp\u00e1\u00f1ame tambi\u00e9n aqu\u00ed:\n\ud83d\udcf8 Instagram: https://instagram.com/elmayimbe\n\ud83d\udcd8 Facebook: https://facebook.com/fernandovillalonard\n\ud83d\udc26 Twitter: https://twitter.com/fervillalona\n\n\ud83d\udce9 Contrataciones y contacto profesional:\n\u2709\ufe0f fernandovillalonard@gmail.com\n\n\ud83c\udfb6 Gracias por ser parte de esta historia. Suscr\u00edbete, activa la campanita y comparte conmigo este legado que seguimos construyendo, nota tras nota, coraz\u00f3n con coraz\u00f3n.\n#FernandoVillalona #ElMayimbe  #merengue"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "22306",
+        "likeCount": "99",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LG2aDXEMmTmoUpJDcd6Jqpgle3c",
+      "id": "B-fLVzfg_dk",
+      "snippet": {
+        "publishedAt": "2025-08-11T04:09:03Z",
+        "channelId": "UCXAQspQEnfpPOr6XZtzuzIA",
+        "title": "Volviste...",
+        "description": "En este GAMEPLAY en ESPA\u00d1OL LATINO KESTO juega WARZONE en la NUEVA ACTUALIZACION de la TEMPORADA 5 donde usa la ABR A1 es decir la AUG que es un FUSIL de RAFAGAS META ya que ELIMINA de 2 TIROS y es IGUAL a la STB de MODERN WARFARE 2 y la AUG ORIGINAL de COLD WAR que es MITICA, espero que les guste!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-fLVzfg_dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-fLVzfg_dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-fLVzfg_dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B-fLVzfg_dk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B-fLVzfg_dk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kesto",
+        "tags": [
+          "aug wz",
+          "aug warzone",
+          "warzone aug",
+          "kesto",
+          "kestico",
+          "Kesto",
+          "kestico warzone",
+          "nueva actualizacion warzone",
+          "actualizacion warzone",
+          "abr a1 warzone",
+          "abr warzone",
+          "abr clase meta warzone",
+          "aug clase meta warzone",
+          "aug fusil warzone",
+          "aug rafagas warzone",
+          "aug meta warzone",
+          "aug meta clase",
+          "temporada 5 warzone",
+          "nuevas armas warzone",
+          "volvio la aug warzone",
+          "volviste warzone"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Volviste...",
+          "description": "En este GAMEPLAY en ESPA\u00d1OL LATINO KESTO juega WARZONE en la NUEVA ACTUALIZACION de la TEMPORADA 5 donde usa la ABR A1 es decir la AUG que es un FUSIL de RAFAGAS META ya que ELIMINA de 2 TIROS y es IGUAL a la STB de MODERN WARFARE 2 y la AUG ORIGINAL de COLD WAR que es MITICA, espero que les guste!"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT20M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "111459",
+        "likeCount": "7548",
+        "favoriteCount": "0",
+        "commentCount": "361"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IZPw9ri5r-sFOM36lMiR1Cao2W4",
+      "id": "gf6OcGRoLdE",
+      "snippet": {
+        "publishedAt": "2025-08-07T10:02:53Z",
+        "channelId": "UClns6AN54xnGJDKAcMoQaag",
+        "title": "La Nota (En Vivo)",
+        "description": "Provided to YouTube by Aparataje Music Group LLC\n\nLa Nota (En Vivo) \u00b7 Bilin Gang \u00b7 Dj Patio\n\nLa Nota\n\n\u2117 2025 Aparataje Music Group, LLC\n\nReleased on: 2025-08-08\n\nProducer: Javy Joel Corona\nMusic Publisher: Ricardo Louis\nMusic Publisher: Aparataje Music Group AC\nComposer: Ricardo Louis\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gf6OcGRoLdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gf6OcGRoLdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gf6OcGRoLdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gf6OcGRoLdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gf6OcGRoLdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Release - Topic",
+        "tags": [
+          "Bilin Gang",
+          "Dj Patio",
+          "La Nota"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "La Nota (En Vivo)",
+          "description": "Provided to YouTube by Aparataje Music Group LLC\n\nLa Nota (En Vivo) \u00b7 Bilin Gang \u00b7 Dj Patio\n\nLa Nota\n\n\u2117 2025 Aparataje Music Group, LLC\n\nReleased on: 2025-08-08\n\nProducer: Javy Joel Corona\nMusic Publisher: Ricardo Louis\nMusic Publisher: Aparataje Music Group AC\nComposer: Ricardo Louis\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11833",
+        "likeCount": "336",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hcreQrNeN0IzLSnsQH3MPka0VAc",
+      "id": "6Tn0VWVPSOk",
+      "snippet": {
+        "publishedAt": "2025-08-09T21:14:31Z",
+        "channelId": "UC8EkcHOycB94lHDkbAPSnQA",
+        "title": "Constru\u00ed un ZOO Lleno de ITALIAN BRAINROTS en Minecraft!",
+        "description": "Hoy, Nacho descubre que su amigo Dagar tiene un Zoo de Brainrots en Minecraft. All\u00ed tienen a Tralalero Tralala, Brr Patapim, Tung Tung Sahur y muchos m\u00e1s. \u00bfQui\u00e9n de los amigos conseguir\u00e1 a las mejores especies y animales de Italian Brainrot? No te lo pierdas!\n\n#minecraft #minecraftmod #nacho #nachoydagar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Tn0VWVPSOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Tn0VWVPSOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Tn0VWVPSOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Tn0VWVPSOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Tn0VWVPSOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nacho",
+        "tags": [
+          "nacho",
+          "dagar",
+          "nacho minecraft",
+          "dagar y nacho",
+          "nacho y dagar",
+          "minecraft",
+          "minecraft mod",
+          "trucos minecraft",
+          "dagar minecraft",
+          "amigos minecraft",
+          "tralalero tralara",
+          "tralalero",
+          "tralalero tralalara",
+          "italian brainrot",
+          "brainrot",
+          "italian",
+          "tung tung tung sahur",
+          "brr patapim",
+          "bombardino cocodrilo",
+          "batalla de mobs",
+          "mejor italian brainrot",
+          "batalla de brainrot",
+          "batalla de italian brainrot",
+          "ballerina capuccina",
+          "lirili larila",
+          "zoo",
+          "zoo de italian brainrot",
+          "udindin din dun"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Constru\u00ed un ZOO Lleno de ITALIAN BRAINROTS en Minecraft!",
+          "description": "Hoy, Nacho descubre que su amigo Dagar tiene un Zoo de Brainrots en Minecraft. All\u00ed tienen a Tralalero Tralala, Brr Patapim, Tung Tung Sahur y muchos m\u00e1s. \u00bfQui\u00e9n de los amigos conseguir\u00e1 a las mejores especies y animales de Italian Brainrot? No te lo pierdas!\n\n#minecraft #minecraftmod #nacho #nachoydagar"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT23M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "973345",
+        "likeCount": "10213",
+        "favoriteCount": "0",
+        "commentCount": "472"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U6qpGiFG7LqAd8eNw330O_pkDno",
+      "id": "pVPSjcWqWV4",
+      "snippet": {
+        "publishedAt": "2025-08-08T10:00:07Z",
+        "channelId": "UC6O-fVTBZYCDMCtwWAoNeww",
+        "title": "Las Vampiras El Varon De La Bachata Video Oficial",
+        "description": "#elvarondelabachata #brujeria #almaperdida #aquivoyvieja #florprohibida #comoaquel pajarito\nSuscribete: cutt.ly/8kRmeCt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVPSjcWqWV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVPSjcWqWV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVPSjcWqWV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pVPSjcWqWV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pVPSjcWqWV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "El Var\u00f3n de la Bachata",
+        "tags": [
+          "bachata",
+          "musica",
+          "bachata nueva",
+          "lo nuevo",
+          "carlos el gusto de la bachata",
+          "es tu varon",
+          "el varon de la bachata",
+          "el varon",
+          "aqui voy bieja",
+          "bachata nueba",
+          "balada",
+          "salsa",
+          "pop",
+          "rock",
+          "latino",
+          "flamenco",
+          "ranchera",
+          "cumbia",
+          "cumbia mexicana",
+          "ritmos latinos",
+          "trap",
+          "regueton",
+          "hip hop",
+          "blues",
+          "jazz",
+          "soul",
+          "funk",
+          "heavy metal",
+          "son",
+          "corrido",
+          "mariachi",
+          "banda",
+          "grupera",
+          "danzon",
+          "mambo",
+          "cha cha cha",
+          "rumba",
+          "merengue",
+          "pambiche",
+          "palo",
+          "dembow"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es-419",
+        "localized": {
+          "title": "Las Vampiras El Varon De La Bachata Video Oficial",
+          "description": "#elvarondelabachata #brujeria #almaperdida #aquivoyvieja #florprohibida #comoaquel pajarito\nSuscribete: cutt.ly/8kRmeCt"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15966",
+        "likeCount": "660",
+        "favoriteCount": "0",
+        "commentCount": "76"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PuRBOoCrUYTfvoDtdaoefetXY54",
+      "id": "54j1Ja0eY2A",
+      "snippet": {
+        "publishedAt": "2025-08-11T13:12:27Z",
+        "channelId": "UC1StC0C68OdfjB9qyJPUF8A",
+        "title": "FUT DRAFT pero solo FC BARCELONA (25/26)",
+        "description": "Nueva edici\u00f3n del Draft del Bar\u00e7a, lo conseguir\u00e9?\n\nSuscribete al canal gratis aqu\u00ed: https://goo.gl/KGkAEd\n\nInstagram: https://www.instagram.com/robert__pg/\n\nTwitter: https://twitter.com/RobertPG94\n\nBusiness Contact:  contact@robertpg.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/54j1Ja0eY2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/54j1Ja0eY2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/54j1Ja0eY2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/54j1Ja0eY2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/54j1Ja0eY2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ROBERT PG",
+        "tags": [
+          "v\u00eddeo",
+          "compartir",
+          "tel\u00e9fono con c\u00e1mara",
+          "tel\u00e9fono con v\u00eddeo",
+          "gratis",
+          "subida",
+          "fc barcelona",
+          "draft bar\u00e7a",
+          "rashford bar\u00e7a",
+          "lamine yamal",
+          "fut draft ea fc 25"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FUT DRAFT pero solo FC BARCELONA (25/26)",
+          "description": "Nueva edici\u00f3n del Draft del Bar\u00e7a, lo conseguir\u00e9?\n\nSuscribete al canal gratis aqu\u00ed: https://goo.gl/KGkAEd\n\nInstagram: https://www.instagram.com/robert__pg/\n\nTwitter: https://twitter.com/RobertPG94\n\nBusiness Contact:  contact@robertpg.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT28M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "135874",
+        "likeCount": "14312",
+        "favoriteCount": "0",
+        "commentCount": "374"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ueh1_ehE_1U_uWVL1GvloV_82Q",
+      "id": "5NLLbIZCDDg",
+      "snippet": {
+        "publishedAt": "2025-08-11T10:49:28Z",
+        "channelId": "UCphao_geD7ONZrgywOdPk-w",
+        "title": "Dando Bala",
+        "description": "Provided to YouTube by FlowBarrial\n\nDando Bala \u00b7 El Chamaco RD \u00b7 Capi Sofoque Y Sanaoria\n\nDando Bala\n\n\u2117 2025 FlowBarrial\n\nReleased on: 2025-08-11\n\nMain Artist: El Chamaco RD\nMain Artist: Capi Sofoque Y Sanaoria\nProducer: Fusil Prod\nComposer: Arismendy Garcias De La Cruz\nComposer: Luis Alberto German de la Rosa\nComposer: Windy Alberto Rosa\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NLLbIZCDDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NLLbIZCDDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NLLbIZCDDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5NLLbIZCDDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5NLLbIZCDDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "El Chamaco RD - Topic",
+        "tags": [
+          "El Chamaco RD",
+          "Capi Sofoque Y Sanaoria",
+          "Dando Bala"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dando Bala",
+          "description": "Provided to YouTube by FlowBarrial\n\nDando Bala \u00b7 El Chamaco RD \u00b7 Capi Sofoque Y Sanaoria\n\nDando Bala\n\n\u2117 2025 FlowBarrial\n\nReleased on: 2025-08-11\n\nMain Artist: El Chamaco RD\nMain Artist: Capi Sofoque Y Sanaoria\nProducer: Fusil Prod\nComposer: Arismendy Garcias De La Cruz\nComposer: Luis Alberto German de la Rosa\nComposer: Windy Alberto Rosa\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "291",
+        "likeCount": "79",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wrYB7OgRBS6uv0l6_DHhq4tXCuU",
+      "id": "XBOIgJyJ0Vk",
+      "snippet": {
+        "publishedAt": "2025-08-10T22:17:57Z",
+        "channelId": "UC1t29JMFpYWanYZ7VWWxr5A",
+        "title": "Me Infiltr\u00e9 en el SERVER de un ADMIN y Rob\u00e9 sus BRAINROTS OP en Steal a Brainrot",
+        "description": "Hooooy voy a robar todos los brainrot de un estafador usando TRAMPAS ILEGALES y COMANDOS DE ADMINISTRADOR\n\u27a1\ufe0f SIGUEME EN ROBLOX: https://www.roblox.com/users/924122577/profile?friendshipSourceType=PlayerSearch\n\ud83d\udc7e DISCORD: \n\nRoba un brainrot\n\nSUSCRIBETE\n\n#roblox #brainrot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XBOIgJyJ0Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XBOIgJyJ0Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XBOIgJyJ0Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XBOIgJyJ0Vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XBOIgJyJ0Vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flex Roblox",
+        "tags": [
+          "roblox",
+          "steal a brainrot",
+          "roba un brainrot",
+          "brainrot",
+          "robe brainrot",
+          "admin",
+          "admin brainrot",
+          "comandos de admin",
+          "trampas",
+          "trampas ilegales",
+          "glitch",
+          "soyneto",
+          "flex roblox",
+          "donpanchis",
+          "zeer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Me Infiltr\u00e9 en el SERVER de un ADMIN y Rob\u00e9 sus BRAINROTS OP en Steal a Brainrot",
+          "description": "Hooooy voy a robar todos los brainrot de un estafador usando TRAMPAS ILEGALES y COMANDOS DE ADMINISTRADOR\n\u27a1\ufe0f SIGUEME EN ROBLOX: https://www.roblox.com/users/924122577/profile?friendshipSourceType=PlayerSearch\n\ud83d\udc7e DISCORD: \n\nRoba un brainrot\n\nSUSCRIBETE\n\n#roblox #brainrot"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT18M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "453782",
+        "likeCount": "4517",
+        "favoriteCount": "0",
+        "commentCount": "830"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cY9wCvPJ43FGZVxYLz849WB9gHg",
+      "id": "PRto7fpzfzc",
+      "snippet": {
+        "publishedAt": "2025-08-08T16:00:45Z",
+        "channelId": "UC-AVSNvCVhzi0_dwjh-9OIQ",
+        "title": "Be\u00e9le - si te pillara (Letra/Lyrics)",
+        "description": "Be\u00e9le - si te pillara\nBe\u00e9le - si te pillara (Letra)\nBe\u00e9le - si te pillara (Letra/Lyrics)\n\n\u2705 Follow Be\u00e9le\nhttps://www.instagram.com/beele\nhttps://www.facebook.com/beelemusica\n\nLetra\n\n[Letra de \"Si Te Pillara\"]\n\n[Intro]\nPilla, hay ojos que no se hacen los ciegos\nPorque las paredes no solo tienen o\u00eddos, \u00bfOiste?\nTambi\u00e9n tienen bemba\n\n[Verso 1]\nSiento que pronto me fallar\u00e1s\nYo digo: \u201cver para creer\u201d\nMuchos me dicen que ya hay alguien m\u00e1s que te vieron por ah\u00ed con un tal \u201cEst\u00e1s loco marico. Ve a terapia\u201d\n\n[Pre-coro]\nTe siento distante, un poco arrogante, ya siento que no sentimos lo de antes, aunque yo de tu boca no sentimos nada\nSi te pillo con el gyal, si te pillara\u2026\n\n[Coro]\nAy, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros, lloro\n\n[Verso 2]\nSi me mientes devuelve mi cora destrozado\nEso no aguanta esto me hace sentir desconfiado\nLas ganas de verte a mi lado\nLas digo en pasado\nPerd\u00ed las esperanzas porque siento que me haces a un lado\nY sisaya pero cayaya, tu haciendo lo tuyo y yo aqu\u00ed en la playa\nRecuerdo tu boddy cuando guaya yeh me da nostalgia\nTe extra\u00f1o tanto ya no te siento\nDuele tu decisi\u00f3n de dejarme en la nada\nSi esto es real como est\u00e1n diciendo\u2026\nMe morir\u00eda si yo te pillara\n\n[Coro]\nY, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros lloro\nY, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo\u2026\n\nTags\n#Be\u00e9le #sitepillara #Letra #Lyrics\nbe\u00e9le si te pillara, si te pillara, si te pillara be\u00e9le, be\u00e9le si te pillara letra, si te pillara letra, si te pillara be\u00e9le letra, be\u00e9le si te pillara lyrics, si te pillara lyrics, si te pillara be\u00e9le lyrics, tiktok, tiktok song, tiktok remix, lyrics on screen,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PRto7fpzfzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PRto7fpzfzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PRto7fpzfzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PRto7fpzfzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PRto7fpzfzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aquarius Music",
+        "tags": [
+          "be\u00e9le si te pillara",
+          "si te pillara",
+          "si te pillara be\u00e9le",
+          "be\u00e9le si te pillara letra",
+          "si te pillara letra",
+          "si te pillara be\u00e9le letra",
+          "be\u00e9le si te pillara lyrics",
+          "si te pillara lyrics",
+          "si te pillara be\u00e9le lyrics",
+          "tiktok",
+          "tiktok song",
+          "tiktok remix",
+          "lyrics on screen"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Be\u00e9le - si te pillara (Letra/Lyrics)",
+          "description": "Be\u00e9le - si te pillara\nBe\u00e9le - si te pillara (Letra)\nBe\u00e9le - si te pillara (Letra/Lyrics)\n\n\u2705 Follow Be\u00e9le\nhttps://www.instagram.com/beele\nhttps://www.facebook.com/beelemusica\n\nLetra\n\n[Letra de \"Si Te Pillara\"]\n\n[Intro]\nPilla, hay ojos que no se hacen los ciegos\nPorque las paredes no solo tienen o\u00eddos, \u00bfOiste?\nTambi\u00e9n tienen bemba\n\n[Verso 1]\nSiento que pronto me fallar\u00e1s\nYo digo: \u201cver para creer\u201d\nMuchos me dicen que ya hay alguien m\u00e1s que te vieron por ah\u00ed con un tal \u201cEst\u00e1s loco marico. Ve a terapia\u201d\n\n[Pre-coro]\nTe siento distante, un poco arrogante, ya siento que no sentimos lo de antes, aunque yo de tu boca no sentimos nada\nSi te pillo con el gyal, si te pillara\u2026\n\n[Coro]\nAy, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros, lloro\n\n[Verso 2]\nSi me mientes devuelve mi cora destrozado\nEso no aguanta esto me hace sentir desconfiado\nLas ganas de verte a mi lado\nLas digo en pasado\nPerd\u00ed las esperanzas porque siento que me haces a un lado\nY sisaya pero cayaya, tu haciendo lo tuyo y yo aqu\u00ed en la playa\nRecuerdo tu boddy cuando guaya yeh me da nostalgia\nTe extra\u00f1o tanto ya no te siento\nDuele tu decisi\u00f3n de dejarme en la nada\nSi esto es real como est\u00e1n diciendo\u2026\nMe morir\u00eda si yo te pillara\n\n[Coro]\nY, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo los ojitos se me aguar\u00e1n\nQue alguien m\u00e1s te toque eso me asara, si tus labios pillo con otros lloro\nY, ay, ay, si te pillara\nSi te pillara, ay si te pillara\nSi te pillara, ay si te pillara\nSi te pillo\u2026\n\nTags\n#Be\u00e9le #sitepillara #Letra #Lyrics\nbe\u00e9le si te pillara, si te pillara, si te pillara be\u00e9le, be\u00e9le si te pillara letra, si te pillara letra, si te pillara be\u00e9le letra, be\u00e9le si te pillara lyrics, si te pillara lyrics, si te pillara be\u00e9le lyrics, tiktok, tiktok song, tiktok remix, lyrics on screen,"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "49738",
+        "likeCount": "121",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3PUn9AStDtOb8knqQ_bHq_1tIWQ",
+      "id": "KylNT8UhM5g",
+      "snippet": {
+        "publishedAt": "2025-08-11T17:02:00Z",
+        "channelId": "UC-ctODTuZq-ViQ-ocLa5XoQ",
+        "title": "ENGA\u00d1\u00c9 a mi AMIGO deteniendo el TIEMPO en Minecraft",
+        "description": "\ud83d\udc49 En este canal produzco videos de Minecraft tratando de explorar varias caracter\u00edsticas del juego, trayendo no solo consejos y curiosidades, sino tambi\u00e9n modificaciones, complementos y varias personalizaciones del juego.\n\n\u2714 Tambi\u00e9n hago series, juego mapas creados por la comunidad, pruebo paquetes de tiendas de Minecraft y tutoriales en granjas y sistemas de redstone. Eventualmente tambi\u00e9n me gusta traer tutoriales de construcci\u00f3n.\n\n\ud83d\udcde Contacto comercial: \ncomercial@agenciacurta.com\n\n#minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KylNT8UhM5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KylNT8UhM5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KylNT8UhM5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KylNT8UhM5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KylNT8UhM5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Athos",
+        "tags": [
+          "athos",
+          "minecraft",
+          "roblox",
+          "Minercaft",
+          "Minceraft",
+          "Mynkraft",
+          "Meencraft",
+          "Minkcraft",
+          "Mindcraft",
+          "Menecraft",
+          "Maynkraft",
+          "Micraft",
+          "Maicraft"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "ENGA\u00d1\u00c9 a mi AMIGO deteniendo el TIEMPO en Minecraft",
+          "description": "\ud83d\udc49 En este canal produzco videos de Minecraft tratando de explorar varias caracter\u00edsticas del juego, trayendo no solo consejos y curiosidades, sino tambi\u00e9n modificaciones, complementos y varias personalizaciones del juego.\n\n\u2714 Tambi\u00e9n hago series, juego mapas creados por la comunidad, pruebo paquetes de tiendas de Minecraft y tutoriales en granjas y sistemas de redstone. Eventualmente tambi\u00e9n me gusta traer tutoriales de construcci\u00f3n.\n\n\ud83d\udcde Contacto comercial: \ncomercial@agenciacurta.com\n\n#minecraft"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT26M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16975",
+        "likeCount": "355",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n2kxC-HrP6_A4cHlqDZTItMLuok",
+      "id": "8kltlF5Zxks",
+      "snippet": {
+        "publishedAt": "2025-08-11T01:40:39Z",
+        "channelId": "UCAMv4v_SL4t3RxdMND9JDyg",
+        "title": "EL RUBIO ACORDE\u00d3N - HOMENAJE A VIDAL (EN VIVO)",
+        "description": "Canal oficial de El Rubio Acorde\u00f3n, El T\u00edpico M\u00e1s Esperado, El M\u00e1s Viral!\nSuscr\u00edbete y deja tu comentario! \n\n\ud83c\udfa7 Sigue a El Rubio Acordeon en sus cuentas oficiales\ud83c\udfa7:\n\nInstagram: https://www.instagram.com/elrubioacordeonoficial\nTikTok: https://www.tiktok.com/@elrubioacordeonoficial\nFacebook: https://www.facebook.com/elrubioacordeon\n\n\ud83c\udfa7 Escucha tambi\u00e9n en \ud83c\udfa7.:\n\nSpotify: https://open.spotify.com/artist/4Vvu7tVzLF5tA19BpNTgm1?si=Kltr2-fBTwOjn3iH9HEFIg\nApple Music:  https://music.apple.com/us/artist/el-rubio-acordeon/1691138800\n\n#ElRubioAcordeon #Mariela #musicologos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8kltlF5Zxks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8kltlF5Zxks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8kltlF5Zxks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8kltlF5Zxks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8kltlF5Zxks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "El Rubio Acorde\u00f3n",
+        "tags": [
+          "rubio acordeon",
+          "el rubio acordeon mariela",
+          "coleccionista tipico",
+          "El Rubio Acordeon - Mariela En Vivo",
+          "mariela el rubio acordeon",
+          "mariela",
+          "el rubio del acordeon",
+          "el rubio",
+          "el rubio acorde\u00f3n",
+          "para musicologo",
+          "tipico para musicologo",
+          "tipico mix",
+          "el rubio tipico",
+          "el rubio acordeon",
+          "el rubio acordeon el abogado",
+          "el rubio acordeon homenaje a vidal",
+          "homenaje a vidal"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "EL RUBIO ACORDE\u00d3N - HOMENAJE A VIDAL (EN VIVO)",
+          "description": "Canal oficial de El Rubio Acorde\u00f3n, El T\u00edpico M\u00e1s Esperado, El M\u00e1s Viral!\nSuscr\u00edbete y deja tu comentario! \n\n\ud83c\udfa7 Sigue a El Rubio Acordeon en sus cuentas oficiales\ud83c\udfa7:\n\nInstagram: https://www.instagram.com/elrubioacordeonoficial\nTikTok: https://www.tiktok.com/@elrubioacordeonoficial\nFacebook: https://www.facebook.com/elrubioacordeon\n\n\ud83c\udfa7 Escucha tambi\u00e9n en \ud83c\udfa7.:\n\nSpotify: https://open.spotify.com/artist/4Vvu7tVzLF5tA19BpNTgm1?si=Kltr2-fBTwOjn3iH9HEFIg\nApple Music:  https://music.apple.com/us/artist/el-rubio-acordeon/1691138800\n\n#ElRubioAcordeon #Mariela #musicologos"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT4M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4199",
+        "likeCount": "403",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n5OvNb_1cGTTB2F5IoZq4ipt5oI",
+      "id": "_8yUUHhtuzc",
+      "snippet": {
+        "publishedAt": "2025-08-11T12:01:12Z",
+        "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+        "title": "Evolu\u00ed RAMPA de POBRE at\u00e9 RAMPA de RICO no Minecraft!",
+        "description": "\ud83d\udc9aCompre j\u00e1 os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: https://lp.curtaloja.com/cadres/\n----\nJ\u00e1 garantiu o seu \u00e1lbum de figurinhas? Corre pra completar, trocar com os amigos e entrar nessa aventura colecion\u00e1vel!\n---\n\ud83d\udd38Instagram: https://www.instagram.com/cadresss/\n\ud83d\udd39Twitter: https://twitter.com/Cadres19\n----\n\ud83d\udce9Contato comercial: comercial@agenciacurta.com\n\n#minecraft #publi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8yUUHhtuzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8yUUHhtuzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8yUUHhtuzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8yUUHhtuzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8yUUHhtuzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cadres",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Evolu\u00ed RAMPA de POBRE at\u00e9 RAMPA de RICO no Minecraft!",
+          "description": "\ud83d\udc9aCompre j\u00e1 os PRODUTOS CADRES nas melhores lojas do Brasil ou Clicando no Link: https://lp.curtaloja.com/cadres/\n----\nJ\u00e1 garantiu o seu \u00e1lbum de figurinhas? Corre pra completar, trocar com os amigos e entrar nessa aventura colecion\u00e1vel!\n---\n\ud83d\udd38Instagram: https://www.instagram.com/cadresss/\n\ud83d\udd39Twitter: https://twitter.com/Cadres19\n----\n\ud83d\udce9Contato comercial: comercial@agenciacurta.com\n\n#minecraft #publi"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT21M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "228575",
+        "likeCount": "6051",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zAEPEpDa5-yTP1c5gaDq6HnuBVk",
+      "id": "Dm_SfxpUb_M",
+      "snippet": {
+        "publishedAt": "2025-08-09T16:00:07Z",
+        "channelId": "UCErFJHV1meGAD4V2dKOpCdg",
+        "title": "Carecantinas - 0 Sentimientos (Video Oficial)",
+        "description": "0 Sentimientos \u2013 Carecantinas\n\nPor m\u00e1s que trato de sentir\notra vez no he podido,\ny los recuerdos que no ayudan\nm\u00e1s las veces que discutimos.\nNo trates de arreglar\nque nada va a pasar,\nya todo iba muy mal,\nel pasado se qued\u00f3 atr\u00e1s.\nNo me pidas que te ame,\nsi lo digo estoy mintiendo.\nDe mi coraz\u00f3n perdiste la llave,\nno me llores, deja los lamentos.\nY tantas veces que torc\u00ed mis manos,\nme adentr\u00e9 al fuego solo por ti,\npero todo fue en vano.\n\n\ud83d\udccc Cr\u00e9ditos:\n\u270d\ufe0f Composici\u00f3n y Post-Produccion: Uriel Mari\u00f1ez Herrera\n\ud83c\udfac Producci\u00f3n Visual: JM Peralta\n\ud83c\udfbc Producci\u00f3n Musical: Ronald N\u00fa\u00f1ez S\u00e1nchez\n\n\ud83d\udcfa Mira m\u00e1s de mi m\u00fasica aqu\u00ed:\nInstagram: @Carecantinas\nTikTok: @Carecantinasyfarolito",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dm_SfxpUb_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dm_SfxpUb_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dm_SfxpUb_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dm_SfxpUb_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dm_SfxpUb_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Carecantinas",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Carecantinas - 0 Sentimientos (Video Oficial)",
+          "description": "0 Sentimientos \u2013 Carecantinas\n\nPor m\u00e1s que trato de sentir\notra vez no he podido,\ny los recuerdos que no ayudan\nm\u00e1s las veces que discutimos.\nNo trates de arreglar\nque nada va a pasar,\nya todo iba muy mal,\nel pasado se qued\u00f3 atr\u00e1s.\nNo me pidas que te ame,\nsi lo digo estoy mintiendo.\nDe mi coraz\u00f3n perdiste la llave,\nno me llores, deja los lamentos.\nY tantas veces que torc\u00ed mis manos,\nme adentr\u00e9 al fuego solo por ti,\npero todo fue en vano.\n\n\ud83d\udccc Cr\u00e9ditos:\n\u270d\ufe0f Composici\u00f3n y Post-Produccion: Uriel Mari\u00f1ez Herrera\n\ud83c\udfac Producci\u00f3n Visual: JM Peralta\n\ud83c\udfbc Producci\u00f3n Musical: Ronald N\u00fa\u00f1ez S\u00e1nchez\n\n\ud83d\udcfa Mira m\u00e1s de mi m\u00fasica aqu\u00ed:\nInstagram: @Carecantinas\nTikTok: @Carecantinasyfarolito"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "30960",
+        "likeCount": "1654",
+        "favoriteCount": "0",
+        "commentCount": "216"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PZh1WM7mzPciIM10560fPjFY7iw",
+      "id": "3KCmO4Z2VXM",
+      "snippet": {
+        "publishedAt": "2025-08-10T21:13:25Z",
+        "channelId": "UCeOrlSK-mWTZjB66O9ttHpg",
+        "title": "Hice IMPOSIBLE Que MIS AMIGOS Muriesen...",
+        "description": "Hice IMPOSIBLE Que MIS AMIGOS Muriesen...\n\nTwitter \ud83d\udc49https://twitter.com/xTurboo_\nDiscord \ud83d\udc49 https://discord.gg/FYcPJr5FWX\nInstagram \ud83d\udc49  https://www.instagram.com/xturboo_\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \nTodos Los Derechos Reservados.\nLa Copia De Este V\u00eddeo Ser\u00e1 Denunciada.\nCopyright \u00a9 xTurbo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3KCmO4Z2VXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3KCmO4Z2VXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3KCmO4Z2VXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3KCmO4Z2VXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3KCmO4Z2VXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "xTurbo",
+        "tags": [
+          "xturboo",
+          "xturbo",
+          "xturboo_",
+          "turbo minecraft",
+          "Minecraft",
+          "Hice IMPOSIBLE Que MIS AMIGOS Muriesen...",
+          "#718"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Hice IMPOSIBLE Que MIS AMIGOS Muriesen...",
+          "description": "Hice IMPOSIBLE Que MIS AMIGOS Muriesen...\n\nTwitter \ud83d\udc49https://twitter.com/xTurboo_\nDiscord \ud83d\udc49 https://discord.gg/FYcPJr5FWX\nInstagram \ud83d\udc49  https://www.instagram.com/xturboo_\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \nTodos Los Derechos Reservados.\nLa Copia De Este V\u00eddeo Ser\u00e1 Denunciada.\nCopyright \u00a9 xTurbo"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT19M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "179474",
+        "likeCount": "4191",
+        "favoriteCount": "0",
+        "commentCount": "386"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3KI2peIZbbOfS6VYqei0csgQbz0",
+      "id": "za5-2FTEa_I",
+      "snippet": {
+        "publishedAt": "2025-08-08T17:00:06Z",
+        "channelId": "UC5j3uP14gpnrBn-sfxjQwtA",
+        "title": "BIGOBLIN - Loca (Video Oficial)",
+        "description": "\ud83d\udd25 BIGOBLIN - Loca | VIDEO OFICIAL \ud83c\udfa5\ud83d\udca5 \ud83d\udd0a\n\ud83d\udea8 NO TE QUEDES FUERA DEL CORO! \ud83d\udea8 Suscr\u00edbete a mi canal de YouTube https://www.youtube.com/bigoblin\n\n\ud83c\udfa7 Esc\u00fachame en todas las plataformas digitales: https://dstt.io/BIGOBLIN\n\ud83d\udc49 Spotify: https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq\n\ud83d\udc49 Apple Music: https://music.apple.com/us/artist/bigoblin/1464471744\n\ud83d\udc49 Amazon Music: https://music.amazon.com/artists/B07LDXJM8N/bigoblin\n\n\ud83c\udfb6 \u00a1Sigue escuchando m\u00e1s de mi aqu\u00ed! \ud83d\udc47\u2705\n\ud83c\udfa4 Rapido https://youtu.be/Uq6GMyqlBSc?si=hMxkPHXT_l0gdZ2Y\n\ud83c\udfa4 Que Te De https://youtu.be/eHlglLzQXbM?si=FV3Wcs8GR55HMeHu\n\ud83c\udfa4 Pretty Little Baby https://youtu.be/E0OPmOLNwgA?si=DVuCMCIZjJ665DFa\n\n\ud83d\udcf2S\u00edgueme en:\nInstagram: https://www.instagram.com/bigoooblin/\nTik Tok: https://www.tiktok.com/@bigoooblin\nFacebook:https://www.facebook.com/bigoooblin\n\n\ud83c\udf10 Visita Disetti Music: https://www.instagram.com/disettimusic/\n\n\ud83d\udd25 \u00bfTe gust\u00f3 esta vuelta? Pues no te quedes ah\u00ed\u2026 sigue d\u00e1ndole play a m\u00e1s fuego! \ud83d\udd25\n\n#BIGOBLIN #Loca #Dembow #Dominicana\n\n\u00a9 BIGOBLIN - Todos los derechos reservados.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/za5-2FTEa_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/za5-2FTEa_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/za5-2FTEa_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/za5-2FTEa_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/za5-2FTEa_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BIGOBLIN",
+        "tags": [
+          "BIGOBLIN",
+          "Trap rd",
+          "Big",
+          "Musica Urbana",
+          "Musica RD",
+          "Dembow",
+          "Pila de nota",
+          "Nuevos talentos",
+          "Republica dominicana",
+          "Musica Dominicana",
+          "freestyle",
+          "R&B",
+          "Rap",
+          "Rap dominicano",
+          "Musica Joven",
+          "que te de",
+          "pretty little baby",
+          "chaki bley",
+          "una chica good",
+          "wepa",
+          "rata rata",
+          "el mello 06",
+          "natural",
+          "el alfa",
+          "tiradera",
+          "rochy rd",
+          "la casa de alofoke",
+          "tiktok",
+          "trend",
+          "viral",
+          "loca con el calenton",
+          "calabria",
+          "lipo",
+          "banda de camion",
+          "rulay y pico",
+          "si te pillara",
+          "beele",
+          "dowel king",
+          "voltio",
+          "pekete",
+          "suave",
+          "asereje",
+          "culo",
+          "verano"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "BIGOBLIN - Loca (Video Oficial)",
+          "description": "\ud83d\udd25 BIGOBLIN - Loca | VIDEO OFICIAL \ud83c\udfa5\ud83d\udca5 \ud83d\udd0a\n\ud83d\udea8 NO TE QUEDES FUERA DEL CORO! \ud83d\udea8 Suscr\u00edbete a mi canal de YouTube https://www.youtube.com/bigoblin\n\n\ud83c\udfa7 Esc\u00fachame en todas las plataformas digitales: https://dstt.io/BIGOBLIN\n\ud83d\udc49 Spotify: https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq\n\ud83d\udc49 Apple Music: https://music.apple.com/us/artist/bigoblin/1464471744\n\ud83d\udc49 Amazon Music: https://music.amazon.com/artists/B07LDXJM8N/bigoblin\n\n\ud83c\udfb6 \u00a1Sigue escuchando m\u00e1s de mi aqu\u00ed! \ud83d\udc47\u2705\n\ud83c\udfa4 Rapido https://youtu.be/Uq6GMyqlBSc?si=hMxkPHXT_l0gdZ2Y\n\ud83c\udfa4 Que Te De https://youtu.be/eHlglLzQXbM?si=FV3Wcs8GR55HMeHu\n\ud83c\udfa4 Pretty Little Baby https://youtu.be/E0OPmOLNwgA?si=DVuCMCIZjJ665DFa\n\n\ud83d\udcf2S\u00edgueme en:\nInstagram: https://www.instagram.com/bigoooblin/\nTik Tok: https://www.tiktok.com/@bigoooblin\nFacebook:https://www.facebook.com/bigoooblin\n\n\ud83c\udf10 Visita Disetti Music: https://www.instagram.com/disettimusic/\n\n\ud83d\udd25 \u00bfTe gust\u00f3 esta vuelta? Pues no te quedes ah\u00ed\u2026 sigue d\u00e1ndole play a m\u00e1s fuego! \ud83d\udd25\n\n#BIGOBLIN #Loca #Dembow #Dominicana\n\n\u00a9 BIGOBLIN - Todos los derechos reservados."
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT1M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "47085",
+        "likeCount": "6511",
+        "favoriteCount": "0",
+        "commentCount": "171"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "S2eLbIL2V4TVfdU5OiyAQ-viGLs",
+      "id": "gOcpyV6X_2k",
+      "snippet": {
+        "publishedAt": "2025-08-10T21:18:23Z",
+        "channelId": "UCybNzp2-iLlBnbA-XOFWupg",
+        "title": "SOBREVIVE al APOCALIPSIS del MONSTRUO DE 99 NOCHES EN EL BOSQUE - PELICULA COMPLETA",
+        "description": "\ud83d\udc40 Mi otro canal:\n\ud83d\udc9b V1NAGRE Gamer: https://www.youtube.com/channel/UCgp1yA-JvAzjUAahiMEhAXw\n\n\ud83d\udc47 Mis redes \ud83d\udc47\n\ud83d\udfe2 Canal de Whatsapp: https://whatsapp.com/channel/0029VaJAz086RGJQRkIMyG3p\n\ud83d\udfe3 Mi grupo de Roblox: https://www.roblox.com/share/g/815967342\n\ud83e\udd0d Mi perfil de Roblox: https://www.roblox.com/es/users/4163638841/profile\n\ud83c\udf08 Instagram: https://www.instagram.com/v1nagregamer/\n\ud83d\udc99 X: https://twitter.com/v1nagre\n\ud83c\udfae \u00danete a nuestra comunidad en discord: https://discord.gg/FFnU3WDe3G\n\n\ud83d\udc8e Contacto negocios: v1nagre@protonmail.com\n\n#v1nagre #brengamer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gOcpyV6X_2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gOcpyV6X_2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gOcpyV6X_2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gOcpyV6X_2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gOcpyV6X_2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "V1NAGRE xD",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "SOBREVIVE al APOCALIPSIS del MONSTRUO DE 99 NOCHES EN EL BOSQUE - PELICULA COMPLETA",
+          "description": "\ud83d\udc40 Mi otro canal:\n\ud83d\udc9b V1NAGRE Gamer: https://www.youtube.com/channel/UCgp1yA-JvAzjUAahiMEhAXw\n\n\ud83d\udc47 Mis redes \ud83d\udc47\n\ud83d\udfe2 Canal de Whatsapp: https://whatsapp.com/channel/0029VaJAz086RGJQRkIMyG3p\n\ud83d\udfe3 Mi grupo de Roblox: https://www.roblox.com/share/g/815967342\n\ud83e\udd0d Mi perfil de Roblox: https://www.roblox.com/es/users/4163638841/profile\n\ud83c\udf08 Instagram: https://www.instagram.com/v1nagregamer/\n\ud83d\udc99 X: https://twitter.com/v1nagre\n\ud83c\udfae \u00danete a nuestra comunidad en discord: https://discord.gg/FFnU3WDe3G\n\n\ud83d\udc8e Contacto negocios: v1nagre@protonmail.com\n\n#v1nagre #brengamer"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT1H57M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "124387",
+        "likeCount": "1209",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "63bcL2SJeIIQKMRIiL4QXCgBdkw",
+      "id": "CmBayJnOp0Y",
+      "snippet": {
+        "publishedAt": "2025-08-09T17:57:58Z",
+        "channelId": "UCTjfozajkrT6SuG7cqA64lQ",
+        "title": "BEYAKO RAP- TATE TRANQUILO MENOR- VIDEO OFICIAL (cruzfilmsrd)",
+        "description": "Sigueme en mi canal de Youtube \ud83d\udc47\ud83d\udc47\nhttps://bit.ly/2Xz0Bxb\n\n\ud83c\udfb5Stream/Download Beyako Rap\ud83d\udc47\ud83d\udc47\nSpotify: https://spoti.fi/32SKwFT\nApple Music: https://apple.co/2RMkE8b\nGoogle Play Music: \n\nS\u00edgueme en mis redes sociales. \ud83d\udc47\ud83d\udc47\nInstagram: https://bit.ly/2XrZEa3\nFacebook: https://bit.ly/3fyUAa6\n\n\u00a9 Beyako Rap \u2117 2021 Izy Music\nYoutube Channel powered by Republic Network. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CmBayJnOp0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CmBayJnOp0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CmBayJnOp0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CmBayJnOp0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CmBayJnOp0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Beyako Rap",
+        "tags": [
+          "Beyako Rap",
+          "bellaco",
+          "beyako rap",
+          "Bellaco",
+          "Beyako",
+          "beyako rap kaly ocho",
+          "menor",
+          "tate",
+          "tranquilo",
+          "cruzfilmsrd",
+          "rap",
+          "conciencia",
+          "delincuencia",
+          "tolentino",
+          "chukito",
+          "lacalle",
+          "robo",
+          "atraco",
+          "consejos",
+          "lapizconciente",
+          "rochyrd",
+          "alofokemusica",
+          "tiguere",
+          "madre",
+          "dolor",
+          "sufrimiento",
+          "superacion",
+          "herrera"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "BEYAKO RAP- TATE TRANQUILO MENOR- VIDEO OFICIAL (cruzfilmsrd)",
+          "description": "Sigueme en mi canal de Youtube \ud83d\udc47\ud83d\udc47\nhttps://bit.ly/2Xz0Bxb\n\n\ud83c\udfb5Stream/Download Beyako Rap\ud83d\udc47\ud83d\udc47\nSpotify: https://spoti.fi/32SKwFT\nApple Music: https://apple.co/2RMkE8b\nGoogle Play Music: \n\nS\u00edgueme en mis redes sociales. \ud83d\udc47\ud83d\udc47\nInstagram: https://bit.ly/2XrZEa3\nFacebook: https://bit.ly/3fyUAa6\n\n\u00a9 Beyako Rap \u2117 2021 Izy Music\nYoutube Channel powered by Republic Network. All Rights Reserved."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11650",
+        "likeCount": "1569",
+        "favoriteCount": "0",
+        "commentCount": "118"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wH2GiEv7p42_BMXvFI0uAW2Tr44",
+      "id": "1pnQS_suKcw",
+      "snippet": {
+        "publishedAt": "2025-08-10T21:17:40Z",
+        "channelId": "UC0ZF62HHV_5jGZEqEDcpPgw",
+        "title": "Rob\u00e9 los NUEVOS BRAINROT SECRETOS IMPOSIBLES (+999 TRILLONES)  de Steal a Brainrot",
+        "description": "Hoooy voy a robar todos los nuevos brainrot que existen pero SIN COMPRAR NINGUNO!!\n...\n\n#roblox #stealabrainrot #brainrot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1pnQS_suKcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1pnQS_suKcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1pnQS_suKcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1pnQS_suKcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1pnQS_suKcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DonPanchis",
+        "tags": [
+          "brainrot",
+          "steal a brainrot",
+          "roba un brainrot",
+          "nuevos brainrot",
+          "brainrot secreto",
+          "atrape brainrot",
+          "soyneto",
+          "flex roblox",
+          "donpanchis",
+          "zeer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rob\u00e9 los NUEVOS BRAINROT SECRETOS IMPOSIBLES (+999 TRILLONES)  de Steal a Brainrot",
+          "description": "Hoooy voy a robar todos los nuevos brainrot que existen pero SIN COMPRAR NINGUNO!!\n...\n\n#roblox #stealabrainrot #brainrot"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT24M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "212592",
+        "likeCount": "3037",
+        "favoriteCount": "0",
+        "commentCount": "824"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JKMHgI5UmACzIyzTCksf01sg-Rk",
+      "id": "5-v2BvJkrOk",
+      "snippet": {
+        "publishedAt": "2025-07-27T10:25:21Z",
+        "channelId": "UCFLTGVQQZSx6Xirj2DyklDQ",
+        "title": "GIGA CHAD TUNG TUNG SAHUR x Sigma Girl | Ballerina Cappuccina Love Story [Sigma Boy Remix]",
+        "description": "GIGA CHAD TUNG TUNG SAHUR x Sigma Girl | Tung Tung Sahur x Ballerina Cappuccina Love Story [Sigma Boy Remix]\n\n #brainrotrap #PartyTunes #Capybanana #BrrBrrPatapim #TralaleroTralala #LiriliLarila #CapuccinoAssassino #OrcaleroOrcala #CappucinaBallerina #EspressonaSignora #ChimpanziniBananini #BombombiniGusini #TrippiTroppi #BurbaloniLulilolli #TungTungTungSahur #TaTaTaSahur #UDinDinDinDinDunMaDinDinDinDun #AIAnimation #AIVideo #OfficialVideo #ViralTikTok #AnimatedRap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-v2BvJkrOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-v2BvJkrOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-v2BvJkrOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5-v2BvJkrOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5-v2BvJkrOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tung Tung Capuccina",
+        "tags": [
+          "sigma girl",
+          "sigma boy",
+          "ballerina cappucina",
+          "brainrot",
+          "brainrot animals",
+          "tung tung tung sahur",
+          "brainrot rap",
+          "giga chad",
+          "tung tung sahur"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GIGA CHAD TUNG TUNG SAHUR x Sigma Girl | Ballerina Cappuccina Love Story [Sigma Boy Remix]",
+          "description": "GIGA CHAD TUNG TUNG SAHUR x Sigma Girl | Tung Tung Sahur x Ballerina Cappuccina Love Story [Sigma Boy Remix]\n\n #brainrotrap #PartyTunes #Capybanana #BrrBrrPatapim #TralaleroTralala #LiriliLarila #CapuccinoAssassino #OrcaleroOrcala #CappucinaBallerina #EspressonaSignora #ChimpanziniBananini #BombombiniGusini #TrippiTroppi #BurbaloniLulilolli #TungTungTungSahur #TaTaTaSahur #UDinDinDinDinDunMaDinDinDinDun #AIAnimation #AIVideo #OfficialVideo #ViralTikTok #AnimatedRap"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT8M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4697272",
+        "likeCount": "5272",
+        "favoriteCount": "0",
+        "commentCount": "59"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c49nquwzxZ1ilOTMpI_IfzShzjs",
+      "id": "VmEr28c6Sh0",
+      "snippet": {
+        "publishedAt": "2025-08-09T23:39:04Z",
+        "channelId": "UC62nFXtc3KNujp9LCPJt-sA",
+        "title": "Us\u00e9 COMANDOS de ADMINISTRADOR en Un Bloque de SOLO \u00c1NGELES!",
+        "description": "\u00a1Fing\u00ed ser un PERRO OSCURO en UN CHUNK en Minecraft!\nCONSIGUE TU LIBRO: https://bit.ly/3PRKdCS\nVideo Inspirado en: \nC\u00f3digo de Stumble Guys: AWITA\nDescarga mi Juego!\nAndroid: https://play.google.com/store/apps/details?id=com.ArakumaStudio.AwitaGame\nIOS: https://apps.apple.com/us/app/awita-duo-elemental/id6478712744\n\n\u279c Twitter: https://twitter.com/AguaFresquita_\n\n\u279c Instagram: https://www.instagram.com/awitayoutuber/\n\n\u279c Discord: https://discord.gg/awita\n\n\u279c Editor: https://twitter.com/im_prro\n\ncontacto: awita@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nAunque esto parezca un video de Prob\u00e9 todos los juegos SECRETOS de Google NeoRandom o Prob\u00e9 Los JUEGOS MAS RAROS de ROBLOX ChuuyMine, tampoco es un video de NADIE ESCAPA de CHOO CHOO CHARLES Silvio Gamer, Prob\u00e9 los JUEGOS MAS POPULARES de CELULAR ChuuyMine o EL JUEGO DONDE ERES DIOS AradirOff, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nProb\u00e9 Los JUEGOS SECRETOS de GOOGLE \ud83e\udd29\ud83d\ude2e\nLos Quiero Mucho a TODOS! \ud83d\udc99oefnv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VmEr28c6Sh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VmEr28c6Sh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmEr28c6Sh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VmEr28c6Sh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VmEr28c6Sh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Awita",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Us\u00e9 COMANDOS de ADMINISTRADOR en Un Bloque de SOLO \u00c1NGELES!",
+          "description": "\u00a1Fing\u00ed ser un PERRO OSCURO en UN CHUNK en Minecraft!\nCONSIGUE TU LIBRO: https://bit.ly/3PRKdCS\nVideo Inspirado en: \nC\u00f3digo de Stumble Guys: AWITA\nDescarga mi Juego!\nAndroid: https://play.google.com/store/apps/details?id=com.ArakumaStudio.AwitaGame\nIOS: https://apps.apple.com/us/app/awita-duo-elemental/id6478712744\n\n\u279c Twitter: https://twitter.com/AguaFresquita_\n\n\u279c Instagram: https://www.instagram.com/awitayoutuber/\n\n\u279c Discord: https://discord.gg/awita\n\n\u279c Editor: https://twitter.com/im_prro\n\ncontacto: awita@mcr-agency.com\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nAunque esto parezca un video de Prob\u00e9 todos los juegos SECRETOS de Google NeoRandom o Prob\u00e9 Los JUEGOS MAS RAROS de ROBLOX ChuuyMine, tampoco es un video de NADIE ESCAPA de CHOO CHOO CHARLES Silvio Gamer, Prob\u00e9 los JUEGOS MAS POPULARES de CELULAR ChuuyMine o EL JUEGO DONDE ERES DIOS AradirOff, as\u00ed que si te gustan los juegos populares de celular, este video te va a encantar\nProb\u00e9 Los JUEGOS SECRETOS de GOOGLE \ud83e\udd29\ud83d\ude2e\nLos Quiero Mucho a TODOS! \ud83d\udc99oefnv"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT36M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "505052",
+        "likeCount": "10367",
+        "favoriteCount": "0",
+        "commentCount": "917"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mNGJNNVpVUwwrmH4L4Io9HT_hRU",
+      "id": "_--QVfmw5PY",
+      "snippet": {
+        "publishedAt": "2025-07-30T20:29:06Z",
+        "channelId": "UCbDLHgtmlvfm6gOl2SNCvcQ",
+        "title": "Eta \u00d1ema",
+        "description": "Provided to YouTube by Symphonic Distribution\n\nEta \u00d1ema \u00b7 La Makulada \u00b7 Greka Grekon\n\nEta \u00d1ema\n\n\u2117 2025 TerrorismoMusic\n\nReleased on: 2025-07-25\n\nProducer: Antony Singer\nComposer Lyricist: Erick Isaac Nova Alcantara\nComposer Lyricist: Gregori Vasquez Reyes\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_--QVfmw5PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_--QVfmw5PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_--QVfmw5PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_--QVfmw5PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_--QVfmw5PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "La Makulada - Topic",
+        "tags": [
+          "La Makulada",
+          "Greka Grekon",
+          "Eta \u00d1ema"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Eta \u00d1ema",
+          "description": "Provided to YouTube by Symphonic Distribution\n\nEta \u00d1ema \u00b7 La Makulada \u00b7 Greka Grekon\n\nEta \u00d1ema\n\n\u2117 2025 TerrorismoMusic\n\nReleased on: 2025-07-25\n\nProducer: Antony Singer\nComposer Lyricist: Erick Isaac Nova Alcantara\nComposer Lyricist: Gregori Vasquez Reyes\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "99709",
+        "likeCount": "2751",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "49EABF_N6kPGV-j-JPxGg_NwsoE",
+      "id": "_DSGzfI7uRE",
+      "snippet": {
+        "publishedAt": "2025-08-11T16:46:38Z",
+        "channelId": "UCam8T03EOFBsNdR0thrFHdQ",
+        "title": "HISTORIA de AMOR y PELEAS DE NAVAJAS (MAFIA: The Old Country) #2",
+        "description": "\u2b50\ufe0f MI TIENDA\u2b50\ufe0f https://vegetta777.shop/ \n\n\ud83d\udc9c Puedes encontrarme tambi\u00e9n en Twitch\ud83d\udc9c: https://www.twitch.tv/vegetta777\n\n\ud83c\udf4c Codigo creador Fortnite - VEGETTA777 \ud83c\udf4c\n\n\ud83e\udd84 Hazte miembro del canal aqu\u00ed \ud83e\udd84 - https://www.youtube.com/user/vegetta777/join\n\n\ud83d\udc9c Unete a mi Discord aqu\u00ed \ud83d\udc9c https://discord.gg/vegetta777\n\n____________________________\n\nINFORMACI\u00d3N DEL CANAL : \n____________________________\n\nSoy Samuel De Luque y b\u00e1sicamente lo que hago en mi canal es hacer de mi afici\u00f3n, los videojuegos, un modo de entretenimiento para todo el mundo. No soy el mejor jugador, ni el que mejor comenta, ni el que mejor edita, pero espero que aun as\u00ed disfrutes a mi lado y junto a los amigos que me acompa\u00f1an d\u00eda a d\u00eda haciendo v\u00eddeos. Un fuerte abrazo. Os quiero. \ud83d\udc9c\n__________________\n\nREDES SOCIALES : \n__________________\n\n\n- INSTAGRAM VEGETTA777 \n http://goo.gl/m33DQo\n\n- TWITCH VEGETTA777\nhttp://goo.gl/V8MZfM\n\n- TWITTER VEGETTA777: \nhttp://goo.gl/s0ScyN\n\n- FACEBOOK (PAGINA):\nhttp://goo.gl/Gfj14j\n\n- GOOGLE+: \nhttp://goo.gl/oXY9jZ\n\n___________________________________\n\nCONTACTO EXCLUSIVO BUSINESS : \n___________________________________\n\nvegetta777@vizz-agency.com\n\n#MafiaTheOldCountry",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DSGzfI7uRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DSGzfI7uRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DSGzfI7uRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_DSGzfI7uRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_DSGzfI7uRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VEGETTA777",
+        "tags": [
+          "mafia el viejo continente vegetta",
+          "mafia el viejo continente vegetta777",
+          "mafia el viejo continente partida nuevo juego",
+          "mafia el viejo continente gameplay",
+          "mafia el viejo continente gameplay completo",
+          "mafia el viejo continente partida completa",
+          "mafia el viejo continente extorsi\u00f3n",
+          "mafia el viejo continente juego de mafiosos",
+          "mafia el viejo continente juego de aventuras",
+          "mafia el viejo continente aventuras con vegetta777",
+          "mafia el viejo continente partida completa vegetta777"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HISTORIA de AMOR y PELEAS DE NAVAJAS (MAFIA: The Old Country) #2",
+          "description": "\u2b50\ufe0f MI TIENDA\u2b50\ufe0f https://vegetta777.shop/ \n\n\ud83d\udc9c Puedes encontrarme tambi\u00e9n en Twitch\ud83d\udc9c: https://www.twitch.tv/vegetta777\n\n\ud83c\udf4c Codigo creador Fortnite - VEGETTA777 \ud83c\udf4c\n\n\ud83e\udd84 Hazte miembro del canal aqu\u00ed \ud83e\udd84 - https://www.youtube.com/user/vegetta777/join\n\n\ud83d\udc9c Unete a mi Discord aqu\u00ed \ud83d\udc9c https://discord.gg/vegetta777\n\n____________________________\n\nINFORMACI\u00d3N DEL CANAL : \n____________________________\n\nSoy Samuel De Luque y b\u00e1sicamente lo que hago en mi canal es hacer de mi afici\u00f3n, los videojuegos, un modo de entretenimiento para todo el mundo. No soy el mejor jugador, ni el que mejor comenta, ni el que mejor edita, pero espero que aun as\u00ed disfrutes a mi lado y junto a los amigos que me acompa\u00f1an d\u00eda a d\u00eda haciendo v\u00eddeos. Un fuerte abrazo. Os quiero. \ud83d\udc9c\n__________________\n\nREDES SOCIALES : \n__________________\n\n\n- INSTAGRAM VEGETTA777 \n http://goo.gl/m33DQo\n\n- TWITCH VEGETTA777\nhttp://goo.gl/V8MZfM\n\n- TWITTER VEGETTA777: \nhttp://goo.gl/s0ScyN\n\n- FACEBOOK (PAGINA):\nhttp://goo.gl/Gfj14j\n\n- GOOGLE+: \nhttp://goo.gl/oXY9jZ\n\n___________________________________\n\nCONTACTO EXCLUSIVO BUSINESS : \n___________________________________\n\nvegetta777@vizz-agency.com\n\n#MafiaTheOldCountry"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT2H38M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "71468",
+        "likeCount": "7800",
+        "favoriteCount": "0",
+        "commentCount": "59"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2U55yskAtvsfHcr5UEfxk5VJS3o",
+      "id": "JGpO4bx92PY",
+      "snippet": {
+        "publishedAt": "2025-07-29T17:44:54Z",
+        "channelId": "UCH4F-EOz0z4xPPkQa1MSCgA",
+        "title": "Hoy Te Quiero M\u00e1s (En Vivo)",
+        "description": "Provided to YouTube by SyncVault.com\n\nHoy Te Quiero M\u00e1s (En Vivo) \u00b7 Raulin Rodriguez\n\nTe Quiero Mas\n\n\u2117 2015 Dilta Music\n\nReleased on: 2015-09-08\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGpO4bx92PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGpO4bx92PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGpO4bx92PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGpO4bx92PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGpO4bx92PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Release - Topic",
+        "tags": [
+          "Raulin Rodriguez",
+          "Te Quiero Mas",
+          "Hoy Te Quiero M\u00e1s (En Vivo)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hoy Te Quiero M\u00e1s (En Vivo)",
+          "description": "Provided to YouTube by SyncVault.com\n\nHoy Te Quiero M\u00e1s (En Vivo) \u00b7 Raulin Rodriguez\n\nTe Quiero Mas\n\n\u2117 2015 Dilta Music\n\nReleased on: 2015-09-08\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "BY",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RU",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9225",
+        "likeCount": "57",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c7mBWKAP7iT_oXv4AFUWt5fecQg",
+      "id": "kwg7JgxrY4o",
+      "snippet": {
+        "publishedAt": "2025-08-10T16:32:00Z",
+        "channelId": "UCCmMcID2BdjgJ6oPrR6Zo8A",
+        "title": "Cadres se ENFERM\u00d3 y NADIE se preocup\u00f3! \ud83d\ude22",
+        "description": "\ud83d\udcde Contacto comercial: \ncomercial@agenciacurta.com\n\n#minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kwg7JgxrY4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kwg7JgxrY4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kwg7JgxrY4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kwg7JgxrY4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kwg7JgxrY4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cadres  ",
+        "tags": [
+          "minecraft",
+          "roblox",
+          "Minercaft",
+          "Minceraft",
+          "Mynkraft",
+          "Meencraft",
+          "Minkcraft",
+          "Mindcraft",
+          "Menecraft",
+          "Maynkraft",
+          "Micraft",
+          "Maicraft",
+          "cadres",
+          "athos"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Cadres se ENFERM\u00d3 y NADIE se preocup\u00f3! \ud83d\ude22",
+          "description": "\ud83d\udcde Contacto comercial: \ncomercial@agenciacurta.com\n\n#minecraft"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT14M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "147619",
+        "likeCount": "1096",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "S9UXDUDcQ8ctoFYpJY_brw33MIE",
+      "id": "SnKqGtF91P4",
+      "snippet": {
+        "publishedAt": "2025-08-07T23:00:06Z",
+        "channelId": "UCSdYO0e1y9xW5-9WbrGkwpg",
+        "title": "Noriel, El Alfa - El Peine (Official Video)",
+        "description": "Music:\nhttps://Noriel.lnk.to/ElAlfa_ElPeine\n\nInstagram: https://www.instagram.com/noriel/?hl=en\nTik Tok: https://www.tiktok.com/@norieldangerpr?lang=en\n\n#Noriel #ElAlfa #ElPeine\n\nMusic video by Noriel, El Alfa performing El Peine (Official Video).(C) 2025 Sony Music Entertainment US Latin LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SnKqGtF91P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SnKqGtF91P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SnKqGtF91P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SnKqGtF91P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SnKqGtF91P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NorielVEVO",
+        "tags": [
+          "Noriel",
+          "El Alfa",
+          "Noriel El Alfa",
+          "Noriel El Peine",
+          "El Alfa El Peine",
+          "Noriel 2025",
+          "El Alfa 2025",
+          "El Peine Video",
+          "El Peine Letra",
+          "El Peine Lyrics",
+          "Cheerful",
+          "El Peine"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Noriel, El Alfa - El Peine (Official Video)",
+          "description": "Music:\nhttps://Noriel.lnk.to/ElAlfa_ElPeine\n\nInstagram: https://www.instagram.com/noriel/?hl=en\nTik Tok: https://www.tiktok.com/@norieldangerpr?lang=en\n\n#Noriel #ElAlfa #ElPeine\n\nMusic video by Noriel, El Alfa performing El Peine (Official Video).(C) 2025 Sony Music Entertainment US Latin LLC"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IO",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KP",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "SS",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "174144",
+        "likeCount": "15971",
+        "favoriteCount": "0",
+        "commentCount": "872"
+      }
+    }
+  ],
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,93 @@
+version: 2
+
+models:
+  - name: stg_youtube_data
+    description: >
+      Staging model for YouTube trending video data.  
+      Cleans and standardizes raw data from `youtube.raw_youtube_data` by applying type conversions, 
+      renaming columns, and ensuring consistent formatting.  
+      This model serves as the base for intermediate and mart layers.
+
+    columns:
+      - name: video_id
+        description: Unique identifier for each YouTube video
+        tests:
+          - not_null
+          - unique
+
+      - name: published_at
+        description: >
+          Standardized video publish timestamp, converted into proper datetime format.
+        tests:
+          - not_null
+
+      - name: channel_id
+        description: Unique identifier for the YouTube channel that published the video
+        tests:
+          - not_null
+
+      - name: title
+        description: Video title provided by the content creator
+
+      - name: description
+        description: Free-text description provided by the content creator
+
+      - name: channel_title
+        description: Human-readable name of the channel
+
+      - name: category_id
+        description: Numerical identifier representing YouTube video category
+
+      - name: live_broadcast_content
+        description: Flag that indicates whether the video is a live broadcast
+
+      - name: default_language
+        description: Default language of the video metadata (ISO 639-1 code if available)
+
+      - name: default_audio_language
+        description: Default audio language of the video (ISO 639-1 code if available)
+
+      - name: tags
+        description: Array of video tags provided by the creator
+
+      - name: duration
+        description: Video length standardized into seconds
+
+      - name: dimension
+        description: Video dimensions (e.g., 2D, 3D)
+
+      - name: definition
+        description: Video quality definition (e.g., hd, sd)
+
+      - name: caption
+        description: Boolean flag indicating whether captions are available
+
+      - name: licensed_content
+        description: Indicates if the video is licensed content
+
+      - name: view_count
+        description: Total number of views on the video
+        tests:
+          - not_null
+
+      - name: like_count
+        description: Total number of likes on the video
+
+      - name: favorite_count
+        description: Deprecated YouTube metric, always 0
+
+      - name: comment_count
+        description: Total number of comments on the video
+
+      - name: blocked_countries
+        description: List of countries where the video is blocked
+
+      - name: load_ts
+        description: Ingestion timestamp when the record was loaded into the system
+        tests:
+          - not_null
+
+      - name: country
+        description: Country where the trending data was collected
+        tests:
+          - not_null

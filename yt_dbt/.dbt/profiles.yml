@@ -1,0 +1,15 @@
+yt_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: XXXXXXX-XXXXXXX # like abcd-xy12345
+      user: XXXXXXXXXXXX
+      role: yt_role
+      database: yt_db
+      warehouse: yt_wh
+      schema: youtube
+      threads: 1
+      private_key_path: /root/.ssh/snowflake_rsa_key.p8
+      insecure_mode: true
+      client_session_keep_alive: False

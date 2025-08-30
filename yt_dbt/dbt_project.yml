@@ -1,0 +1,29 @@
+name: 'yt_dbt'
+version: '1.0.0'
+config-version: 2
+
+profile: 'yt_dbt'
+
+# Paths to important folders
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+data-paths: ["data"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+# Compiled files directory
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+
+# Model configuration
+models:
+  yt_dbt:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table

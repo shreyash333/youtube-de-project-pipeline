@@ -1,0 +1,182 @@
+version: 2
+
+models:
+  - name: mart_tt_least_viewed_category
+    description: >
+      Identifies the top 10 YouTube categories with the lowest total views across trending videos.  
+      Aggregates at the category level to calculate:  
+        - Number of unique trending videos in the category  
+        - Total views across those videos.
+    columns:
+      - name: category_id
+        description: Numeric ID representing the YouTube video category.
+        tests:
+          - not_null
+      - name: videos_count
+        description: Number of unique trending videos within the category.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+      - name: views_count
+        description: Total number of views across all videos in the category.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+
+  - name: mart_tt_long_videos
+    description: >
+      Identifies the top 10 longest YouTube trending videos.  
+      Extracts unique videos from trending data and sorts them by duration (ISO 8601 format).  
+      Provides insights into which videos tend to be the longest among trending content.
+    columns:
+      - name: title
+        description: Title of the YouTube video.
+        tests:
+          - not_null
+
+      - name: published_at
+        description: Timestamp when the video was published.
+        tests:
+          - not_null
+
+      - name: channel_title
+        description: Name of the channel that uploaded the video.
+        tests:
+          - not_null
+
+      - name: category_id
+        description: Numeric ID representing the YouTube video category.
+        tests:
+          - not_null
+
+      - name: duration
+        description: >
+          Video duration in ISO 8601 format (e.g., PT15M33S).  
+          Represents the total length of the video.
+        tests:
+          - not_null
+
+  - name: mart_tt_most_used_category
+    description: >
+      Identifies the top 10 most frequently used YouTube video categories  
+      based on trending data. Aggregates unique videos per category  
+      and counts the number of unique countries where they appeared.
+    columns:
+      - name: category_id
+        description: Numeric ID representing the YouTube video category.
+        tests:
+          - not_null
+
+      - name: videos_count
+        description: Number of unique videos in this category.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ">= 0"   # ensures no negative counts
+
+      - name: country_count
+        description: Number of unique countries where videos in this category trended.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ">= 0"   # ensures no negative counts
+
+  - name: mart_tt_most_used_lang
+    description: >
+      Identifies the top 10 most frequently used audio languages  
+      in trending YouTube videos. Aggregates unique videos per language  
+      and counts the number of unique countries where they appeared.
+    columns:
+      - name: default_audio_language
+        description: ISO code representing the default audio language of the video (e.g., en, hi, es).
+        tests:
+          - not_null
+
+      - name: videos_count
+        description: Number of unique trending videos in this language.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ">= 0"
+
+      - name: country_count
+        description: Number of unique countries where videos of this language trended.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ">= 0"
+
+  - name: mart_tt_most_viewed_category
+    description: >
+      Identifies the top 10 most-viewed YouTube video categories in trending data.  
+      Aggregates videos by `category_id`, counting the number of unique videos  
+      and summing up total view counts across all trending countries.
+    columns:
+      - name: category_id
+        description: Category identifier for the trending video (maps to YouTube's category metadata).
+        tests:
+          - not_null
+
+      - name: videos_count
+        description: Number of unique trending videos in this category.
+        tests:
+          - not_null
+
+      - name: views_count
+        description: Total views accumulated by all trending videos in this category.
+        tests:
+          - not_null
+
+  - name: mart_tt_most_viewed_lang
+    description: >
+      Identifies the top 10 languages with the highest total views across trending videos.  
+      Aggregates trending videos by their `default_audio_language`, counting unique videos  
+      and summing up total view counts.
+    columns:
+      - name: default_audio_language
+        description: Language code of the video audio track (e.g., en, hi, es).  
+        tests:
+          - not_null
+
+      - name: videos_count
+        description: Number of unique trending videos available in this language.  
+        tests:
+          - not_null
+
+      - name: views_count
+        description: Total views accumulated by all trending videos in this language.  
+        tests:
+          - not_null
+
+  - name: mart_tt_short_videos
+    description: >
+      Identifies the top 10 shortest trending YouTube videos.  
+      Selects videos ordered by ascending duration, keeping only one record per video_id  
+      (highest like_count chosen upstream in int_unique_video).
+    columns:
+      - name: title
+        description: Title of the trending video.  
+        tests:
+          - not_null
+
+      - name: published_at
+        description: Timestamp when the video was published.  
+        tests:
+          - not_null
+
+      - name: channel_title
+        description: Display name of the channel that uploaded the video.  
+        tests:
+          - not_null
+
+      - name: category_id
+        description: Numeric identifier of the YouTube category the video belongs to.  
+        tests:
+          - not_null
+
+      - name: duration
+        description: Video duration (ISO 8601 format, e.g., PT15M33S).  
+        tests:
+          - not_null

@@ -1,0 +1,60 @@
+How to Run the YouTube Trending Data Engineering Project
+
+# 1. Build the Docker Image
+docker build -t youtube-project .
+
+# 2. Ingest YouTube Trending Data
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project python3 ingesion/download_yt_data.py
+
+# 3. Flatten JSON using Spark
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project spark-submit spark_job/flatten_youtube_json.py
+
+# 4. Upload Data to Snowflake
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project python3 ingesion/upload_files.py
+
+# 5. Go to dbt project folder
+cd yt_dbt
+
+# 6. Test dbt connection
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project dbt debug
+
+# 7. Run dbt all models
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project dbt run --select stg_youtube_data+ --profiles-dir /root/.dbt
+
+# 8. Back to root folder
+cd ..
+
+# 9. Generate Report
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project python3 report/create_report.py
+
+
+###################################################################################################################
+
+##If you want to run from Conatiner bash 
+
+# 1. To enter container bash (terminal)
+docker run -it --rm -v "%cd%:/app" -v "%cd%\.dbt:/root/.dbt" -v "%cd%\.ssh:/root/.ssh" -w /app youtube-project bash
+
+# 2. Ingest YouTube Trending Data
+python3 ingesion/download_yt_data.py
+
+# 3. Flatten JSON using Spark
+spark-submit spark_job/flatten_youtube_json.py
+
+# 4. Upload Data to Snowflake
+python3 ingesion/upload_files.py
+
+# 5. Go to dbt project folder
+cd yt_dbt
+
+# 6. Test dbt connection
+dbt debug
+
+# 7. Run dbt all models
+dbt run --select stg_youtube_data+ --profiles-dir /root/.dbt
+
+# 8. Back to root folder
+cd ..
+
+# 9. Generate Report
+python3 report/create_report.py

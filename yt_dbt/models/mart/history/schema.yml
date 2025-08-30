@@ -1,0 +1,71 @@
+version: 2
+
+models:
+  - name: youtube_incremental_load
+    description: >
+      Incremental load model for YouTube trending data.  
+      Stores snapshots of trending videos over time, with uniqueness defined  
+      by `(video_id, load_ts)`.  
+      Ensures history is preserved while preventing duplicate loads.
+    config:
+      materialized: incremental
+      unique_key: ['video_id', 'load_ts']
+    columns:
+      - name: video_id
+        description: Unique identifier of the video
+        tests:
+          - not_null
+      - name: published_at
+        description: Timestamp when the video was originally published
+      - name: channel_id
+        description: Unique identifier of the channel
+        tests:
+          - not_null
+      - name: title
+        description: Video title
+      - name: description
+        description: Video description text
+      - name: channel_title
+        description: Name of the channel
+      - name: category_id
+        description: YouTube category identifier
+        tests:
+          - not_null
+      - name: live_broadcast_content
+        description: Whether the video is live, none, or upcoming
+      - name: default_language
+        description: Default metadata language
+      - name: default_audio_language
+        description: Spoken audio language of the video
+      - name: tags
+        description: List of tags for the video
+      - name: duration
+        description: Length of the video (ISO 8601 format, e.g., PT5M30S)
+      - name: dimension
+        description: Video dimension (2D/3D)
+      - name: definition
+        description: Video quality definition (HD/SD)
+      - name: caption
+        description: Whether captions are available
+      - name: licensed_content
+        description: Whether it is licensed content
+      - name: view_count
+        description: Number of views
+        tests:
+          - not_null
+      - name: like_count
+        description: Number of likes
+      - name: favorite_count
+        description: Legacy field (always 0 in API v3)
+      - name: comment_count
+        description: Number of comments
+      - name: blocked_countries
+        description: List of countries where the video is blocked
+      - name: load_ts
+        description: Timestamp when the data was ingested into the pipeline
+        tests:
+          - not_null
+      - name: country
+        description: Country where the video appeared in trending
+        tests:
+          - not_null

@@ -1,0 +1,98 @@
+version: 2
+
+models:
+  - name: mart_tt_comment_channel
+    description: >
+      Identifies the top 10 YouTube channels with the highest total comments  
+      across all trending videos worldwide.  
+      Aggregates at the channel level, counting unique trending videos and summing comment volume.
+    columns:
+      - name: channel_title
+        description: Name of the YouTube channel.
+        tests:
+          - not_null
+      - name: videos_count
+        description: Number of unique trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+      - name: comments_count
+        description: Total number of comments aggregated across all trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+
+  - name: mart_tt_like_channel
+    description: >
+      Identifies the top 10 YouTube channels with the highest total likes  
+      across all trending videos worldwide.  
+      Aggregates at the channel level, counting unique trending videos and summing like volume.
+    columns:
+      - name: channel_title
+        description: Name of the YouTube channel.
+        tests:
+          - not_null
+      - name: videos_count
+        description: Number of unique trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+      - name: likes_count
+        description: Total number of likes aggregated across all trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+
+  - name: mart_tt_trending_channel
+    description: >
+      Identifies the top 10 YouTube channels that appear most frequently in trending videos.  
+      Aggregates at the channel level to show:  
+        - Number of unique trending videos for the channel  
+        - How many times (country occurrences) those videos trended across different countries.
+    columns:
+      - name: channel_title
+        description: Name of the YouTube channel.
+        tests:
+          - not_null
+      - name: trending_videos_count
+        description: Number of unique trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+      - name: countries_count
+        description: >
+          Number of records (country occurrences) → indicates how many times  
+          the channels videos appeared in trending lists across different countries.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+
+  - name: mart_tt_view_channel
+    description: >
+      Identifies the top 10 YouTube channels with the highest total views across all trending videos worldwide.  
+      Aggregates data at the channel level to calculate:  
+        - Number of unique trending videos  
+        - Total views across those videos.
+    columns:
+      - name: channel_title
+        description: Name of the YouTube channel.
+        tests:
+          - not_null
+      - name: videos_count
+        description: Number of unique trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
+      - name: views_count
+        description: Total number of views across all trending videos for the channel.
+        tests:
+          - not_null
+          - greater_than:
+              value: 0
