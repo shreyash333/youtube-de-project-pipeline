@@ -21,7 +21,7 @@ The solution showcases scalable, production-grade practices used in modern data 
 ---
 
 ## 3. Folder Structure
-
+```
 ├── config.cfg                          # Global project configuration file
 ├── data_pipeline_achitecture.png       # Architecture diagram of the data pipeline
 ├── Dockerfile                          # Docker image definition for containerizing the 
@@ -78,6 +78,7 @@ The solution showcases scalable, production-grade practices used in modern data 
     ├── snapshots                       # dbt snapshots for SCD (slowly changing dimensions)
     ├── staging                         # Temporary staging scripts/tables if needed
     └── tests                           # dbt tests for data quality
+```
 
 ## 4. Architecture
 
