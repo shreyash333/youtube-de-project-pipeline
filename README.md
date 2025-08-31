@@ -54,7 +54,7 @@ The solution showcases scalable, production-grade practices used in modern data 
 │   └── ddls.sql                        # DDL statements for schema/tables creation
 │
 ├── spark_job                           # Spark transformation jobs
-│   └── flatten_youtube_json.py         # Script to flatten nested YouTube JSON into tabular format
+│   └── flatten_youtube_json.py         # Script to flatten nested YouTube JSON into 
 │
 └── yt_dbt                              # dbt project for transformations
     ├── .dbt
